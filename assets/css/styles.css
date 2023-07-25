@@ -9,9 +9,9 @@
 
   /*========== My Custom Colors ==========*/
   /*Color mode HSL(hue, saturation, lightness)*/
-  --first-color: hsl(219, 69%, 56%);
+  --first-color: hsl(62, 93%, 50%);
   --first-color-alt: hsl(219, 69%, 52%);
-  --title-color: hsl(219, 8%, 95%);
+  --title-color: hsl(0, 76%, 48%);
   --text-color: hsl(219, 8%, 75%);
   --text-color-light: hsl(219, 4%, 55%);
   --white-color: #fff;
@@ -136,7 +136,7 @@ img {
 .shape__smaller{
   width: 180px;
   height: 180px;
-  filter: blur(64px);
+  filter: blur(54px);
 }
 
 /*=============== HEADER & NAV BAR ===============*/
@@ -176,7 +176,7 @@ font-size: 1.25rem;
   font-size: 1.25rem;
   cursor: pointer;
 }
-@media screen and (max-width: 810px) {
+@media screen and (max-width: 767px) {
   .nav__menu{
     position: fixed;
     background-color: hsl(0, 0%, 100%, .1);
@@ -215,6 +215,7 @@ padding-top: 9rem;
   top: 1rem;
   right: 1rem;
   cursor: pointer;
+  color: hsl(62, 93%, 50%);
 }
 /* Show menu items */
 .show-menu{
@@ -231,4 +232,192 @@ padding-top: 9rem;
 /* Active link */
 .active-link{
   color: var(--first-color);
+}
+
+
+/* Slider */
+
+.slider {
+  width: 100%;
+  height: auto;
+  margin-top: 52px;
+  overflow: hidden;
+}
+
+.slider .slide-track {
+  display: flex;
+  animation: scroll 40s linear infinite;
+  -webkit-animation: scroll 18s linear infinite;
+  width: calc(230px * 16);
+}
+
+.slider .slide {
+  width: 230px;
+}
+
+.slider .slide img {
+  width: 100%;
+  height: 160px;
+}
+
+@keyframes scroll {
+  0% {
+    -webkit-transform: translatex(0);
+    transform: translatex(0);
+  }
+  100% {
+    -webkit-transform: translatex(calc(-220px * 8));
+    transform: translatex(calc(-220px * 8));
+  }
+}
+
+
+/*=============== SCROLL BAR ===============*/
+::-webkit-scrollbar{
+  width: 0.5rem;
+  background-color: hsl(219, 4%, 16%);
+  border-radius: 1rem;
+
+}
+
+::-webkit-scrollbar-thumb{
+  background-color: hsl(219, 4%, 24%);
+  border-radius: 1rem;
+}
+::-webkit-scrollbar-thumb:hover{
+  background-color: hsl(219, 4%, 32%);
+}
+
+/*=============== SCROLL UP ===============*/
+.scrollup{
+  position: fixed;
+  right: 1rem;
+  bottom: -30%;
+  background-color: hsla(0, 0%, 100%, .1);
+  display: inline-flex;
+  padding: .45rem;
+  border-radius: .5rem;
+  font-size: 1.15rem;
+  color: var(--white-color);
+  z-index: var(--z-tooltip);
+  transition: .4s;
+}
+.scrollup:hover{
+  transform: translateY(-.28rem);
+}
+
+
+/* Show Scroll Up*/
+
+.show-scroll{
+  bottom: 3rem;
+}
+
+/*=============== BREAKPOINTS ===============*/
+/* For small devices */
+@media screen and (max-width: 320px){
+  
+}
+
+/* For medium devices */
+@media screen and (min-width: 576px) {
+  .about__group{
+    width: 350px;
+    justify-self: center;
+  }
+  .features__map{
+    left: 0;
+    right: 0;
+  }
+  .featured__content{
+    grid-template-columns: repeat(2, 228px);
+  }
+
+  .offer__container{
+    grid-template-rows: initial;
+    grid-template-columns: .5fr;
+    justify-content: center;
+  }
+  .offer__img{
+    position: relative;
+    bottom: initial;
+    right: initial;
+  }
+  .offer__data{
+    margin-bottom: 4rem;
+  }
+}
+@media screen and (min-width: 767px) {
+  .section{
+    padding: 7rem 0 2rem;
+  }
+  .nav{
+    /* margin-top: 1rem;
+    margin-bottom: 1rem;
+    height: calc(var(--header-height)+ 1.5rem); */
+  }
+  .nav__toggle,
+  .nav__close{
+    display: none;
+  }
+  .nav__list{
+    flex-direction: row;
+    column-gap: 3rem;
+    padding-top: 0;
+  }
+  .nav__link{
+    font-size: var(--normal-font-size);
+    text-transform: initial;
+  }
+  .about__container{
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .logos__container{
+    gap: 4rem 8rem;
+  }
+  .footer__container{
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+/* For large devices */
+
+
+@media screen and (min-width: 1040px) {
+  .container{
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .shape__big{
+    width: 500px;
+    height: 500px;
+
+  }
+  .shape__small{
+    width: 400px;
+    height: 400px;
+  }
+  .home__container{
+    padding-top: 2rem;
+  }
+  .home__img{
+    width: 380px;
+  }
+  .home__car{
+    column-gap: 10rem;
+  }
+  .home__car-icon{
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+  }
+  .home__social-icon{
+    visibility: visible !important;
+  }
+  .slider__bg-navBtn{
+    z-index: var(--z-fixed);
+  }
+
+  .scrollup{
+    right: 2.8rem;
+  }
 }
