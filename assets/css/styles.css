@@ -271,12 +271,21 @@ padding-top: 9rem;
   }
 }
 
+.presentation {
+
+}
+
+.presentation img{
+  height: 600px;
+
+}
+
 
 /*=============== SCROLL BAR ===============*/
 ::-webkit-scrollbar{
-  width: 0.5rem;
+  width: 1rem;
   background-color: hsl(219, 4%, 16%);
-  border-radius: 1rem;
+  border-radius: 0.7 rem;
 
 }
 
@@ -293,7 +302,7 @@ padding-top: 9rem;
   position: fixed;
   right: 1rem;
   bottom: -30%;
-  background-color: hsla(0, 0%, 100%, .1);
+  background-color: --title-color(0, 0%, 100%, .1);
   display: inline-flex;
   padding: .45rem;
   border-radius: .5rem;
@@ -316,36 +325,6 @@ padding-top: 9rem;
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
 @media screen and (max-width: 320px){
-  
-}
-
-/* For medium devices */
-@media screen and (min-width: 576px) {
-  .about__group{
-    width: 350px;
-    justify-self: center;
-  }
-  .features__map{
-    left: 0;
-    right: 0;
-  }
-  .featured__content{
-    grid-template-columns: repeat(2, 228px);
-  }
-
-  .offer__container{
-    grid-template-rows: initial;
-    grid-template-columns: .5fr;
-    justify-content: center;
-  }
-  .offer__img{
-    position: relative;
-    bottom: initial;
-    right: initial;
-  }
-  .offer__data{
-    margin-bottom: 4rem;
-  }
 }
 @media screen and (min-width: 767px) {
   .section{
@@ -369,15 +348,7 @@ padding-top: 9rem;
     font-size: var(--normal-font-size);
     text-transform: initial;
   }
-  .about__container{
-    grid-template-columns: repeat(2, 1fr);
-  }
-  .logos__container{
-    gap: 4rem 8rem;
-  }
-  .footer__container{
-    grid-template-columns: repeat(2, 1fr);
-  }
+ 
 }
 /* For large devices */
 
@@ -400,22 +371,7 @@ padding-top: 9rem;
   .home__container{
     padding-top: 2rem;
   }
-  .home__img{
-    width: 380px;
-  }
-  .home__car{
-    column-gap: 10rem;
-  }
-  .home__car-icon{
-    font-size: 1.25rem;
-    margin-bottom: 1rem;
-  }
-  .home__social-icon{
-    visibility: visible !important;
-  }
-  .slider__bg-navBtn{
-    z-index: var(--z-fixed);
-  }
+  
 
   .scrollup{
     right: 2.8rem;
