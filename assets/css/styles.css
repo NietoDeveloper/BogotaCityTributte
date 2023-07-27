@@ -12,7 +12,7 @@
   --first-color: hsl(62, 93%, 50%);
   --first-color-alt: hsl(219, 69%, 52%);
   --title-color: hsl(0, 76%, 48%);
-  --text-color: hsl(219, 8%, 75%);
+  --text-color: hsl(218, 40%, 4%);
   --text-color-light: hsl(219, 4%, 55%);
   --white-color: #fff;
   /* --body-color: hsl(219, 4%, 4%); */
@@ -56,10 +56,12 @@
   box-sizing: border-box;
   padding: 0;
   margin: 0;
+  
 }
 
 html {
   scroll-behavior: smooth;
+  
 }
 
 body {
@@ -118,7 +120,7 @@ img {
 
 .shapeX{
   background-color: hsla(219, 33%, 32%, .5);
-  filter: blur(112px);
+  filter: blur(5px);
   border-radius: 50%;
 
 }
@@ -136,7 +138,7 @@ img {
 .shape__smaller{
   width: 180px;
   height: 180px;
-  filter: blur(54px);
+  filter: blur(5px);
 }
 
 /*=============== HEADER & NAV BAR ===============*/
@@ -185,7 +187,7 @@ font-size: 1.25rem;
     right: -100%;
     width: 100%;
     height: 100%;
-    backdrop-filter: blur(96px);
+    backdrop-filter: blur(36px);
     transition: .3s;
   }
 }
@@ -229,9 +231,13 @@ padding-top: 9rem;
   box-shadow: 0 2px 4px hsla(0, 0%, 1%, 1);
 }
 
-/* Active link */
-.active-link{
-  color: var(--first-color);
+.background img{
+  width:100%;
+  height: 140px;
+  background-position:center;
+  background-size: cover;
+  display:flex;
+
 }
 
 
@@ -239,8 +245,8 @@ padding-top: 9rem;
 
 .slider {
   width: 100%;
-  height: auto;
-  margin-top: 52px;
+  height: 180px;
+  margin-top: 0ch;
   overflow: hidden;
 }
 
@@ -257,7 +263,7 @@ padding-top: 9rem;
 
 .slider .slide img {
   width: 100%;
-  height: 160px;
+  height: 140px;
 }
 
 @keyframes scroll {
@@ -271,21 +277,26 @@ padding-top: 9rem;
   }
 }
 
-.presentation {
-
+.card {
+    max-width: 200px;
+    min-width:100px;
+    height: 700px;
+    color:#fff;
+    text-align:center;
+    padding:50px 35px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    background:rgba(255, 255, 255, 0.2);
+    border-radius: 16px;
+    box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
+    backdrop-filter: blur(5px);
 }
 
-.presentation img{
-  height: 600px;
-
-}
 
 
 /*=============== SCROLL BAR ===============*/
 ::-webkit-scrollbar{
-  width: 1rem;
+  width: 13px;
   background-color: hsl(219, 4%, 16%);
-  border-radius: 0.7 rem;
 
 }
 
