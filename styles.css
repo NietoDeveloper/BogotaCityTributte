@@ -155,7 +155,7 @@ img {
   display: inline-flex;
 }
 .nav__logo{
-  font-size: 20px;
+  font-size: 30px;
   align-items: center;
   column-gap: .5rem;
   font-weight: var(--font-medium);
@@ -168,7 +168,7 @@ font-size: 1.25rem;
   color: var(--first-color);
 }
 .nav__toggle{
-  font-size: 1.25rem;
+  font-size: 30px;
   cursor: pointer;
 }
 @media screen and (max-width: 767px) {
@@ -195,7 +195,7 @@ padding-top: 9rem;
 .nav__link{
   text-transform: uppercase;
   color: var(--title-color);
-  font-size: var(--h2-font-size);
+  font-size: 25px;
   font-weight: var(--font-medium);
   transition: .3s;
 }
@@ -258,19 +258,36 @@ padding-top: 9rem;
   }
 }
 
-.card {
-    max-width: 200px;
-    min-width:80px;
+.cards {
+  display: flex;
+}
+
+.card1 {
+    max-width: 220px;
+    min-width:90px;
     height: 700px;
-    color:#fff;
-    text-align:center;
-    padding:50px 35px;
-    border: 1px solid rgba(255, 255, 255, 0.3);
-    background:rgba(255, 255, 255, 0.2);
+    border: 1px solid rgba(61, 12, 209, 0.411);
     border-radius: 16px;
     box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
     backdrop-filter: blur(4px);
-    position: flex;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.card2 {
+
+  max-width: 900px;
+  min-width: 180px;
+  height: 700px;
+  border: 1px solid rgba(61, 12, 209, 0.411);
+  border-radius: 16px;
+  box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
+  backdrop-filter: blur(4px);
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  
 }
 
 /*=============== SCROLL BAR ===============*/
@@ -321,6 +338,12 @@ padding-top: 9rem;
   .section{
     padding: 7rem 0 2rem;
   }
+  .card1 {
+
+  }
+  .card2 {
+
+  }
   .nav{
     /* margin-top: 1rem;
     margin-bottom: 1rem;
@@ -336,7 +359,7 @@ padding-top: 9rem;
     padding-top: 0;
   }
   .nav__link{
-    font-size: var(--normal-font-size);
+    font-size: 20px;
     text-transform: initial;
   }
  
@@ -345,6 +368,14 @@ padding-top: 9rem;
 
 
 @media screen and (min-width: 1040px) {
+
+  .card1 {
+
+  }
+  .card2 {
+    
+  }
+  
   .container{
     margin-left: auto;
     margin-right: auto;
