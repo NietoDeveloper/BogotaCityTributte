@@ -155,7 +155,7 @@ img {
   display: inline-flex;
 }
 .nav__logo{
-  font-size: 30px;
+  font-size: 25px;
   align-items: center;
   column-gap: .5rem;
   font-weight: var(--font-medium);
@@ -195,7 +195,8 @@ padding-top: 9rem;
 .nav__link{
   text-transform: uppercase;
   color: var(--title-color);
-  font-size: 25px;
+  font-size: 2
+  0px;
   font-weight: var(--font-medium);
   transition: .3s;
 }
@@ -212,12 +213,12 @@ padding-top: 9rem;
   cursor: pointer;
   color: hsl(62, 93%, 50%);
 }
-/* Show menu items */
+
 .show-menu{
   right: 0;
 }
 
-/* Change background header */
+
 .scroll-header{
   border-radius: 0 0 1rem 1rem;
   background-color: var(--body-color);
@@ -225,7 +226,7 @@ padding-top: 9rem;
 }
 
 .slider {
-  margin-top: 55px;
+  margin-top: 5px;
   width: 100%;
   height: 150px;
   overflow: hidden;
@@ -263,30 +264,120 @@ padding-top: 9rem;
 }
 
 .card1 {
-    max-width: 220px;
-    min-width:90px;
-    height: 700px;
     border: 1px solid rgba(61, 12, 209, 0.411);
     border-radius: 16px;
     box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
     backdrop-filter: blur(4px);
-    margin-top: 10px;
-    margin-left: 10px;
-    margin-right: 10px;
+    width: 110px;
+    height: 435px;
+    margin-top: 70px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .card2 {
 
-  max-width: 900px;
-  min-width: 180px;
-  height: 700px;
+
   border: 1px solid rgba(61, 12, 209, 0.411);
   border-radius: 16px;
   box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
   backdrop-filter: blur(4px);
-  margin-top: 10px;
-  margin-left: 10px;
-  margin-right: 10px;
+  width: 220px;
+  height: 435px;
+  margin-top: 70px;
+  
+}
+
+.pages {
+  display: flex;
+}
+
+.page1 {
+  border: 1px solid rgba(61, 12, 209, 0.411);
+  border-radius: 16px;
+  box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
+  backdrop-filter: blur(4px);
+  width: 110px;
+  height: 435px;
+  margin-top: 70px;
+  margin-left: 20px;
+  margin-right: 20px;
+
+}
+
+.page2 {
+
+
+  border: 1px solid rgba(61, 12, 209, 0.411);
+  border-radius: 16px;
+  box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
+  backdrop-filter: blur(4px);
+  width: 220px;
+  height: 435px;
+  margin-top: 70px;
+
+  
+}
+
+.places {
+  display: flex;
+}
+
+.show1 {
+  border: 1px solid rgba(61, 12, 209, 0.411);
+  border-radius: 16px;
+  box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
+  backdrop-filter: blur(4px);
+  width: 110px;
+  height: 435px;
+  margin-top: 70px;
+  margin-left: 20px;
+  margin-right: 20px;
+
+}
+
+.show2 {
+
+
+  border: 1px solid rgba(61, 12, 209, 0.411);
+  border-radius: 16px;
+  box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
+  backdrop-filter: blur(4px);
+  width: 220px;
+  height: 435px;
+  margin-top: 70px;
+
+  
+}
+
+.people{
+  display: flex;
+}
+
+.pics1 {
+  border: 1px solid rgba(61, 12, 209, 0.411);
+  border-radius: 16px;
+  box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
+  backdrop-filter: blur(4px);
+  width: 110px;
+  height: 435px;
+  margin-top: 70px;
+  margin-left: 20px;
+  margin-right: 20px;
+
+}
+
+.pics2 {
+
+
+  border: 1px solid rgba(61, 12, 209, 0.411);
+  border-radius: 16px;
+  box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
+  backdrop-filter: blur(4px);
+  width: 220px;
+  height: 435px;
+  margin-top: 70px;
+
   
 }
 
@@ -339,6 +430,7 @@ padding-top: 9rem;
     padding: 7rem 0 2rem;
   }
   .card1 {
+    width: 120px;
 
   }
   .card2 {
@@ -375,7 +467,7 @@ padding-top: 9rem;
   .card2 {
     
   }
-  
+
   .container{
     margin-left: auto;
     margin-right: auto;
