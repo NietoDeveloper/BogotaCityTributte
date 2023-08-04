@@ -202,7 +202,7 @@ h3, p, a{
     border-radius: 16px;
     box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
     backdrop-filter: blur(4px);
-    width: 270px;
+    width: 300px;
     height: 122px;
     margin-top: 20px;
     align-self: center;
@@ -341,33 +341,35 @@ h3, p, a{
     width: 100%;
     height: 120px;
     overflow: hidden;
-  }
-  
-  .slider .slide-track {
-    display: flex;
-    animation: scroll 40s linear infinite;
-    -webkit-animation: scroll 18s linear infinite;
-    width: calc(230px * 16);
-  }
-  
-  .slider .slide {
-    width: 230px;
-  }
-  
-  .slider .slide img {
-    width: 100%;
-    height: 140px;
-  }
-  @keyframes scroll {
-  0% {
-    -webkit-transform: translatex(0);
-    transform: translatex(0);
-  }
-  100% {
-    -webkit-transform: translatex(calc(-220px * 8));
-    transform: translatex(calc(-220px * 8));
-  }
 }
+
+.slider .slide-track {
+  display: flex;
+  animation: scroll 40s linear infinite;
+  -webkit-animation: scroll 18s linear infinite;
+  width: calc(230px * 16);
+}
+
+.slider .slide {
+  width: 230px;
+}
+
+.slider .slide img {
+  width: 100%;
+  height: 140px;
+}
+@keyframes scroll {
+0% {
+  -webkit-transform: translatex(0);
+  transform: translatex(0);
+}
+100% {
+  -webkit-transform: translatex(calc(-220px * 8));
+  transform: translatex(calc(-220px * 8));
+}
+
+}
+
 
 /*=============== SCROLL BAR ===============*/
 ::-webkit-scrollbar{
@@ -408,6 +410,42 @@ h3, p, a{
     bottom: 3rem;
   }
 
+/* For small devices */
+@media screen and (max-width: 320px){
+  
+}
+
+/* For medium devices */
+@media screen and (min-width: 518px) {
+.div-1 {
+    width: 500px;
+    height: 180px;
+    margin-top: 40px;
+}
+.div-2 {
+    width: 150px;
+    height: 522px;
+    margin-top: 40px;
+    margin-right: 15px;
+}
+.div-3 {
+    width: 335px;
+    height: 522px;
+    margin-top: 40px;
+}
+
+}
+
+/* For large devices */
+
+
+@media screen and (min-width: 950px) {
+    .div-1 {
+        width: 820px;
+        height: 220px;
+        margin-top: 40px;
+    }
+}
 
 
 .footer {
@@ -426,14 +464,13 @@ h3, p, a{
     font-size: var(--smaller-font-size);
     color: var(--scarlet);
     padding-top: 20px;
-  }
-
-  .footer__dev-link{
-    color: blue;
-  }
-  .footer__dev-link::before{
-   
-    text-shadow: 0 0 12px hsl(0, 0%, 100%);
-    transition: .3s;
-    animation: a 3s infinite; 
-  }
+}
+.footer__dev-link{
+  color: blue;
+}
+.footer__dev-link::before{
+ 
+  text-shadow: 0 0 12px hsl(0, 0%, 100%);
+  transition: .3s;
+  animation: a 3s infinite; 
+}
