@@ -416,7 +416,7 @@ h3, p, a{
     background-color: var(--oscuro);
     font-size: 18px;
     width: 100%;
-    height: 90px;
+    height: 70px;
 }
 
 .footer__copy{
@@ -425,7 +425,7 @@ h3, p, a{
     text-align: center;
     font-size: var(--smaller-font-size);
     color: var(--scarlet);
-    padding-top: 15px;
+    padding-top: 20px;
   }
 
   .footer__dev-link{
