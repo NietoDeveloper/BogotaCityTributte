@@ -371,7 +371,7 @@ h3, p, a{
 
 /*=============== SCROLL BAR ===============*/
 ::-webkit-scrollbar{
-    width: 0.5rem;
+    width: 10px;
     background-color: hsl(219, 4%, 16%);
   
   }
