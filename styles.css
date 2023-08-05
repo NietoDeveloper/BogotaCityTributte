@@ -46,12 +46,12 @@ h3, p, a{
     display: none;
 }
 .btn-cerrar{
-    font-size: 35px;
+    font-size: 45px;
     font-weight: bold;
     color: var(--scarlet);
     position: absolute;
     top: 0;
-    right: 60px;
+    right: 40px;
     user-select: none;
 
 }
@@ -168,8 +168,8 @@ h3, p, a{
     top: 0;
     right: 0;
     bottom: 0;
-    height: 667px;
-    width: 350px;
+    height: 700px;
+    width: 100%;
     padding: 50px 50px;
     backdrop-filter: blur(10px);
     background-color: transparent;
