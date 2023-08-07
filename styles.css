@@ -188,6 +188,47 @@ h3, p, a{
     margin-bottom: 3px;
 }
 
+.slider {
+    margin-top: 1px;
+    width: 100%;
+    height: 120px;
+    overflow: hidden;
+}
+
+.slider .slide-track {
+  display: flex;
+  animation: scroll 40s linear infinite;
+  -webkit-animation: scroll 18s linear infinite;
+  width: calc(230px * 16);
+}
+
+.slider .slide {
+  width: 230px;
+}
+
+.slider .slide img {
+  width: 100%;
+  height: 140px;
+}
+@keyframes scroll {
+0% {
+  -webkit-transform: translatex(0);
+  transform: translatex(0);
+}
+100% {
+  -webkit-transform: translatex(calc(-220px * 8));
+  transform: translatex(calc(-220px * 8));
+}
+
+}
+
+.welcome {
+    text-align: center;
+    color: blue;
+    margin-top: 15px;
+    font-size: 18px;
+}
+
 
 
 .container {
@@ -205,7 +246,7 @@ h3, p, a{
     backdrop-filter: blur(4px);
     width: 300px;
     height: 122px;
-    margin-top: 20px;
+    margin-top: 5px;
     align-self: center;
 }
 
@@ -216,7 +257,7 @@ h3, p, a{
     backdrop-filter: blur(4px);
     width: 100px;
     height: 522px;
-    margin-top: 30px;
+    margin-top: 40px;
     margin-right: 10px;
     align-self: center;
 }
@@ -228,7 +269,7 @@ h3, p, a{
     backdrop-filter: blur(4px);
     width: 200px;
     height: 522px;
-    margin-top: 30px;
+    margin-top: 40px;
     align-self: center;
 }
 
@@ -334,40 +375,6 @@ h3, p, a{
     align-self: center;
 }
 
-.slider {
-    margin-top: 1px;
-    width: 100%;
-    height: 120px;
-    overflow: hidden;
-}
-
-.slider .slide-track {
-  display: flex;
-  animation: scroll 40s linear infinite;
-  -webkit-animation: scroll 18s linear infinite;
-  width: calc(230px * 16);
-}
-
-.slider .slide {
-  width: 230px;
-}
-
-.slider .slide img {
-  width: 100%;
-  height: 140px;
-}
-@keyframes scroll {
-0% {
-  -webkit-transform: translatex(0);
-  transform: translatex(0);
-}
-100% {
-  -webkit-transform: translatex(calc(-220px * 8));
-  transform: translatex(calc(-220px * 8));
-}
-
-}
-
 
 /*=============== SCROLL BAR ===============*/
 ::-webkit-scrollbar{
@@ -415,6 +422,10 @@ h3, p, a{
 
 /* For medium devices */
 @media screen and (min-width: 518px) {
+.navegacion {
+    width: 100%;
+    align-items: center;
+}
 .div-1 {
     width: 500px;
     height: 180px;
@@ -483,8 +494,13 @@ h3, p, a{
 
 /* For large devices */
 
-
 @media screen and (min-width: 900px) {
+
+.navegacion {
+    width: 100%;
+    align-items: center;
+}
+
 .div-1 {
     width: 800px;
     height: 180px;
