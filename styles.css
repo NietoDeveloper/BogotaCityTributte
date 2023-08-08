@@ -1,6 +1,6 @@
 :root{
     --gold: gold;
-    --scarlet: rgb(112, 4, 4);
+    --scarlet: rgba(255, 0, 0, 0.851);
     --gainsboro:gainsboro;
     --blue: blue;
     --oscuro:#000;
@@ -228,15 +228,24 @@ h3, p, a{
     margin-top: 15px;
     font-size: 18px;
 }
-
-
-
 .container {
+    text-align: center;
     display: flex;
     margin: 0 auto;
     place-content: center;
     align-items: center;
     justify-content: center;
+}
+.container .div-1 h2 {
+    color: rgba(255, 0, 0, 0.851);
+    margin-top: 6px;
+    font-size: 21px;
+}
+.container .div-1 h3 {
+    font-size: 18px;
+}
+.container .div-1 p {
+    font-size: 15px;
 }
   
 .div-1 {
@@ -245,8 +254,8 @@ h3, p, a{
     box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
     backdrop-filter: blur(4px);
     width: 300px;
-    height: 122px;
-    margin-top: 5px;
+    height: 255px;
+    margin-top: 1px;
     align-self: center;
 }
 
@@ -426,10 +435,27 @@ h3, p, a{
     width: 100%;
     align-items: center;
 }
+.welcome {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 21px;
+}
+.container .div-1 h2 {
+    color: rgba(255, 0, 0, 0.851);
+    margin-top: 4px;
+    font-size: 28px;
+}
+.container .div-1 h3 {
+    font-size: 20px;
+}
+.container .div-1 p {
+    font-size: 16px;
+    color: #000;
+}
 .div-1 {
+    margin-top: 1px;
     width: 500px;
-    height: 180px;
-    margin-top: 40px;
+    height: 190px;
 }
 .div-2 {
     width: 150px;
@@ -501,10 +527,30 @@ h3, p, a{
     align-items: center;
 }
 
+.welcome {
+    text-align: center;
+    margin-top: 5px;
+    font-size: 23px;
+}
+.container {
+    margin-top: 1px;
+}
+.container .div-1 h2 {
+    color: rgba(255, 0, 0, 0.851);
+    margin-top: 5px;
+    font-size: 35px;
+}
+.container .div-1 h3 {
+    font-size: 30px;
+}
+.container .div-1 p {
+    font-size: 21px;
+}
+
 .div-1 {
     width: 800px;
-    height: 180px;
-    margin-top: 40px;
+    height: 230px;
+    margin-top: 5px;
 }
 .div-2 {
     width: 240px;
