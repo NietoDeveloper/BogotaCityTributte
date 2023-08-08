@@ -491,7 +491,7 @@ h3, p, a{
 
 .div-2 {
     width: 150px;
-    height: 780px;
+    height: 980px;
     margin-top: 7px;
     margin-right: 15px;
 }
@@ -507,11 +507,15 @@ h3, p, a{
     font-size: 16px;
     color: #000;
 }
+.container .div-2 img {
+    width: 140px;
+    height: 100px;
+}
 
 
 .div-3 {
     width: 330px;
-    height: 780px;
+    height: 980px;
     margin-top: 7px;
     padding: auto;
 }
@@ -524,12 +528,12 @@ h3, p, a{
     font-size: 25px;
 }
 .container .div-3 p {
-    font-size: 16px;
+    font-size: 18px;
     color: #000;
 }
 .container .div-3 img {
     width: 300px;
-    height: 130px;
+    height: 140px;
     
 }
 
@@ -646,6 +650,11 @@ h3, p, a{
 .container .div-2 p {
     font-size: 20px;
     color: #000;
+}
+.container .div-2 img {
+    width: 270px;
+    height: 110px;
+    
 }
 
 
