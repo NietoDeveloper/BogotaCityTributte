@@ -253,33 +253,61 @@ h3, p, a{
     border-radius: 16px;
     box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
     backdrop-filter: blur(4px);
-    width: 300px;
+    width: 310px;
     height: 255px;
     margin-top: 1px;
     align-self: center;
+    padding: auto;
 }
 
+.container .div-2 h2 {
+    color: rgba(255, 0, 0, 0.851);
+    margin-top: 4px;
+    font-size: 24px;
+}
+.container .div-2 h3 {
+    font-size: 20px;
+}
+.container .div-2 p {
+    font-size: 15px;
+    color: #000;
+}
 .div-2 {
     border: 1px solid rgba(61, 12, 209, 0.411);
     border-radius: 16px;
     box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
     backdrop-filter: blur(4px);
-    width: 100px;
-    height: 522px;
-    margin-top: 40px;
+    width: 120px;
+    height: 900px;
+    margin-top: 10px;
     margin-right: 10px;
     align-self: center;
+    padding: auto;
 }
 
+.container .div-3 h2 {
+    color: rgba(255, 0, 0, 0.851);
+    margin-top: 4px;
+    font-size: 24px;
+}
+.container .div-3 h3 {
+    font-size: 17px;
+}
+.container .div-3 p {
+    font-size: 15px;
+    color: #000;
+    margin-top: 10px;
+}
 .div-3 {
     border: 1px solid rgba(61, 12, 209, 0.411);
     border-radius: 16px;
     box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
     backdrop-filter: blur(4px);
-    width: 200px;
-    height: 522px;
-    margin-top: 40px;
+    width: 180px;
+    height: 900px;
+    margin-top: 10px;
     align-self: center;
+    padding: auto;
 }
 
 .div-4 {
@@ -303,6 +331,7 @@ h3, p, a{
     height: 122px;
     margin-top: 40px;
     align-self: center;
+    padding: auto;
 }
 
 .div-6 {
@@ -315,6 +344,7 @@ h3, p, a{
     margin-top: 40px;
     align-self: center;
     margin-right: 5px;
+    padding: auto;
 }
 
 .div-7 {
@@ -440,6 +470,12 @@ h3, p, a{
     margin-top: 10px;
     font-size: 21px;
 }
+
+.div-1 {
+    margin-top: 1px;
+    width: 500px;
+    height: 190px;
+}
 .container .div-1 h2 {
     color: rgba(255, 0, 0, 0.851);
     margin-top: 4px;
@@ -452,22 +488,52 @@ h3, p, a{
     font-size: 16px;
     color: #000;
 }
-.div-1 {
-    margin-top: 1px;
-    width: 500px;
-    height: 190px;
-}
+
 .div-2 {
     width: 150px;
-    height: 522px;
-    margin-top: 40px;
+    height: 780px;
+    margin-top: 7px;
     margin-right: 15px;
 }
+.container .div-2 h2 {
+    color: rgba(255, 0, 0, 0.851);
+    margin-top: 4px;
+    font-size: 28px;
+}
+.container .div-2 h3 {
+    font-size: 20px;
+}
+.container .div-2 p {
+    font-size: 16px;
+    color: #000;
+}
+
+
 .div-3 {
     width: 330px;
-    height: 522px;
-    margin-top: 40px;
+    height: 780px;
+    margin-top: 7px;
+    padding: auto;
 }
+.container .div-3 h2 {
+    color: rgba(255, 0, 0, 0.851);
+    margin-top: 1px;
+    font-size: 32px;
+}
+.container .div-3 h3 {
+    font-size: 25px;
+}
+.container .div-3 p {
+    font-size: 16px;
+    color: #000;
+}
+.container .div-3 img {
+    width: 300px;
+    height: 130px;
+    
+}
+
+
 .div-4 {
     width: 240px;
     height: 522px;
@@ -552,17 +618,62 @@ h3, p, a{
     height: 230px;
     margin-top: 5px;
 }
+.container .div-1 h2 {
+    color: rgba(255, 0, 0, 0.851);
+    margin-top: 5px;
+    font-size: 35px;
+}
+.container .div-1 h3 {
+    font-size: 30px;
+}
+.container .div-1 p {
+    font-size: 21px;
+}
 .div-2 {
-    width: 240px;
-    height: 522px;
-    margin-top: 40px;
-    margin-right: 15px;
+    width: 290px;
+    height: 930px;
+    margin-top: 7px;
+    margin-right: 10px;
 }
+.container .div-2 h2 {
+    color: rgba(255, 0, 0, 0.851);
+    margin-top: 4px;
+    font-size: 32px;
+}
+.container .div-2 h3 {
+    font-size: 25px;
+}
+.container .div-2 p {
+    font-size: 20px;
+    color: #000;
+}
+
+
 .div-3 {
-    width: 540px;
-    height: 522px;
-    margin-top: 40px;
+    width: 520px;
+    height: 930px;
+    margin-top: 7px;
+    padding: auto;
 }
+.container .div-3 h2 {
+    color: rgba(255, 0, 0, 0.851);
+    margin-top: 1px;
+    font-size: 32px;
+}
+.container .div-3 h3 {
+    font-size: 25px;
+}
+.container .div-3 p {
+    font-size: 20px;
+    color: #000;
+}
+.container .div-3 img {
+    width: 500px;
+    height: 170px;
+    
+}
+
+
 .div-4 {
     width: 390px;
     height: 522px;
@@ -619,7 +730,7 @@ h3, p, a{
     background-color: var(--oscuro);
     font-size: 18px;
     width: 100%;
-    height: 70px;
+    height: 80px;
 }
 
 .footer__copy{
