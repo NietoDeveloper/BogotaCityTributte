@@ -316,10 +316,15 @@ h3, p, a{
     box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
     backdrop-filter: blur(4px);
     width: 150px;
-    height: 122px;
+    height: 170px;
     margin-top: 40px;
     margin-right: 10px;
     align-self: center;
+}
+.container .div-4 h3 {
+    margin-top: 5px;
+    font-size: 20px; 
+    color: blue;
 }
 
 .div-5 {
@@ -328,10 +333,15 @@ h3, p, a{
     box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
     backdrop-filter: blur(4px);
     width: 150px;
-    height: 122px;
+    height: 170px;
     margin-top: 40px;
     align-self: center;
     padding: auto;
+}
+.container .div-5 h3 {
+    margin-top: 5px;
+    font-size: 20px; 
+    color: blue;
 }
 
 .div-6 {
@@ -340,11 +350,16 @@ h3, p, a{
     box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
     backdrop-filter: blur(4px);
     width: 100px;
-    height: 260px;
+    height: 700px;
     margin-top: 40px;
     align-self: center;
     margin-right: 5px;
     padding: auto;
+}
+.container .div-6 h2 {
+    color: rgba(255, 0, 0, 0.851);
+    font-size: 24px;
+    margin-top: 5px;
 }
 
 .div-7 {
@@ -353,7 +368,7 @@ h3, p, a{
     box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
     backdrop-filter: blur(4px);
     width: 100px;
-    height: 260px;
+    height: 700px;
     margin-top: 40px;
     margin-right: 5px;
     align-self: center;
@@ -365,7 +380,7 @@ h3, p, a{
     box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
     backdrop-filter: blur(4px);
     width: 100px;
-    height: 260px;
+    height: 700px;
     margin-top: 40px;
     align-self: center;
 }
@@ -540,13 +555,32 @@ h3, p, a{
 
 .div-4 {
     width: 240px;
-    height: 522px;
+    height: 250px;
     margin-top: 40px;
 }
+.container .div-4 img {
+    width: 190px;
+    height: 200px;
+}
+.container .div-4 h3 {
+    margin-top: 5px;
+    font-size: 25px; 
+    color: blue;
+}
+
 .div-5 {
     width: 240px;
-    height: 522px;
+    height: 250px;
     margin-top: 40px;
+}
+.container .div-5 img {
+    width: 210px;
+    height: 170px;
+}
+.container .div-5 h3 {
+    margin-top: 5px;
+    font-size: 25px; 
+    color: blue;
 }
 
 .div-6 {
@@ -682,16 +716,33 @@ h3, p, a{
     
 }
 
-
 .div-4 {
     width: 390px;
-    height: 522px;
+    height: 380px;
     margin-top: 40px;
+}
+.container .div-4 img {
+    width: 350px;
+    height: 290px; 
+}
+.container .div-4 h3 {
+    margin-top: 5px;
+    font-size: 30px; 
+    color: blue;
 }
 .div-5 {
     width: 390px;
-    height: 522px;
+    height: 380px;
     margin-top: 40px;
+}
+.container .div-5 img {
+    width: 350px;
+    height: 270px;
+}
+.container .div-5 h3 {
+    margin-top: 5px;
+    font-size: 30px; 
+    color: blue;
 }
 
 .div-6 {
