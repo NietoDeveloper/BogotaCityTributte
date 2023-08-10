@@ -350,7 +350,7 @@ h3, p, a{
     box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
     backdrop-filter: blur(4px);
     width: 100px;
-    height: 700px;
+    height: 2040px;
     margin-top: 40px;
     align-self: center;
     margin-right: 5px;
@@ -361,6 +361,9 @@ h3, p, a{
     font-size: 24px;
     margin-top: 5px;
 }
+.container .div-6 p {
+    font-size: 13px;
+}
 
 .div-7 {
     border: 1px solid rgba(61, 12, 209, 0.411);
@@ -368,10 +371,21 @@ h3, p, a{
     box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
     backdrop-filter: blur(4px);
     width: 100px;
-    height: 700px;
+    height: 2040px;
     margin-top: 40px;
     margin-right: 5px;
     align-self: center;
+}
+.container .div-7 h2 {
+    color: rgba(255, 0, 0, 0.851);
+    font-size: 24px;
+    margin-top: 5px;
+}
+.container .div-7 h3 {
+    margin-top: 7px;
+}
+.container .div-7 p {
+    font-size: 13px;
 }
 
 .div-8 {
@@ -380,9 +394,13 @@ h3, p, a{
     box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
     backdrop-filter: blur(4px);
     width: 100px;
-    height: 700px;
+    height: 2040px;
     margin-top: 40px;
     align-self: center;
+}
+.container .div-8 p {
+    margin-top: 5px;
+    font-size: 12px;
 }
 
 .div-9 {
@@ -390,8 +408,8 @@ h3, p, a{
     border-radius: 16px;
     box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
     backdrop-filter: blur(4px);
-    width: 70px;
-    height: 250px;
+    width: 100px;
+    height: 750px;
     margin: 60px 5px;
     align-self: center;
 }
@@ -401,8 +419,8 @@ h3, p, a{
     border-radius: 16px;
     box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
     backdrop-filter: blur(4px);
-    width: 70px;
-    height: 250px;
+    width: 100px;
+    height: 750px;
     align-self: center;
     margin: 60px 0;
 }
@@ -412,8 +430,8 @@ h3, p, a{
     border-radius: 16px;
     box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
     backdrop-filter: blur(4px);
-    width: 70px;
-    height: 250px;
+    width: 100px;
+    height: 750px;
     align-self: center;
     margin: 60px 5px;
 }
