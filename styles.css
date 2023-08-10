@@ -419,9 +419,9 @@ h3, p, a{
     border-radius: 16px;
     box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
     backdrop-filter: blur(4px);
-    width: 100px;
-    height: 750px;
-    margin: 60px 5px;
+    width: 150px;
+    height: 800px;
+    margin: 6px 2px;
     align-self: center;
 }
 
@@ -430,10 +430,10 @@ h3, p, a{
     border-radius: 16px;
     box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
     backdrop-filter: blur(4px);
-    width: 100px;
-    height: 750px;
+    width: 150px;
+    height: 800px;
     align-self: center;
-    margin: 60px 0;
+    margin: 6px 0;
 }
 
 .div-11 {
@@ -441,13 +441,24 @@ h3, p, a{
     border-radius: 16px;
     box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
     backdrop-filter: blur(4px);
-    width: 100px;
-    height: 750px;
+    width: 310px;
+    height: 500px;
     align-self: center;
-    margin: 60px 5px;
+    margin: 6px 5px;
 }
 
 .div-12 {
+    border: 1px solid rgba(61, 12, 209, 0.411);
+    border-radius: 16px;
+    box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
+    backdrop-filter: blur(4px);
+    width: 310px;
+    height: 500px;
+    margin: 6px 5px;
+    align-self: center;
+}
+
+.div-13 {
     border: 1px solid rgba(61, 12, 209, 0.411);
     border-radius: 16px;
     box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
@@ -458,6 +469,104 @@ h3, p, a{
     align-self: center;
 }
 
+.div-14 {
+    border: 1px solid rgba(61, 12, 209, 0.411);
+    border-radius: 16px;
+    box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
+    backdrop-filter: blur(4px);
+    width: 70px;
+    height: 250px;
+    margin: 60px 0;
+    align-self: center;
+}
+
+.div-15 {
+    border: 1px solid rgba(61, 12, 209, 0.411);
+    border-radius: 16px;
+    box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
+    backdrop-filter: blur(4px);
+    width: 70px;
+    height: 250px;
+    margin: 60px 0;
+    align-self: center;
+}
+
+.div-16 {
+    border: 1px solid rgba(61, 12, 209, 0.411);
+    border-radius: 16px;
+    box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
+    backdrop-filter: blur(4px);
+    width: 70px;
+    height: 250px;
+    margin: 60px 0;
+    align-self: center;
+}
+
+.div-17 {
+    border: 1px solid rgba(61, 12, 209, 0.411);
+    border-radius: 16px;
+    box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
+    backdrop-filter: blur(4px);
+    width: 70px;
+    height: 250px;
+    margin: 60px 0;
+    align-self: center;
+}
+
+.div-18 {
+    border: 1px solid rgba(61, 12, 209, 0.411);
+    border-radius: 16px;
+    box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
+    backdrop-filter: blur(4px);
+    width: 70px;
+    height: 250px;
+    margin: 60px 0;
+    align-self: center;
+}
+
+.div-19 {
+    border: 1px solid rgba(61, 12, 209, 0.411);
+    border-radius: 16px;
+    box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
+    backdrop-filter: blur(4px);
+    width: 70px;
+    height: 250px;
+    margin: 60px 0;
+    align-self: center;
+}
+
+.div-20 {
+    border: 1px solid rgba(61, 12, 209, 0.411);
+    border-radius: 16px;
+    box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
+    backdrop-filter: blur(4px);
+    width: 70px;
+    height: 250px;
+    margin: 60px 0;
+    align-self: center;
+}
+
+.div-21 {
+    border: 1px solid rgba(61, 12, 209, 0.411);
+    border-radius: 16px;
+    box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
+    backdrop-filter: blur(4px);
+    width: 70px;
+    height: 250px;
+    margin: 60px 0;
+    align-self: center;
+}
+
+.div-22 {
+    border: 1px solid rgba(61, 12, 209, 0.411);
+    border-radius: 16px;
+    box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
+    backdrop-filter: blur(4px);
+    width: 70px;
+    height: 250px;
+    margin: 60px 0;
+    align-self: center;
+}
 
 /*=============== SCROLL BAR ===============*/
 ::-webkit-scrollbar{
