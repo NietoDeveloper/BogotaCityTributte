@@ -466,10 +466,23 @@ h3, p, a{
     border-radius: 16px;
     box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
     backdrop-filter: blur(4px);
-    width: 310px;
-    height: 500px;
+    width: 100px;
+    height: 840px;
     align-self: center;
-    margin: 6px 5px;
+    margin-top: 5px;
+    margin-right: 1px;
+}
+.container .div-11 p {
+    font-size: 11px;
+}
+.container .div-11 h2 {
+    color: rgba(255, 0, 0, 0.851);
+    font-size: 28px;
+    margin-top: 5px;
+}
+.container .div-11 h3 {
+    font-size: 20px;
+
 }
 
 .div-12 {
@@ -477,10 +490,23 @@ h3, p, a{
     border-radius: 16px;
     box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
     backdrop-filter: blur(4px);
-    width: 310px;
-    height: 500px;
-    margin: 6px 5px;
+    width: 100px;
+    height: 840px;
+    margin-top: 5px;
+    margin-right: 1px;
     align-self: center;
+}
+.container .div-12 p {
+    font-size: 11px;
+}
+.container .div-12 h2 {
+    color: rgba(255, 0, 0, 0.851);
+    font-size: 28px;
+    margin-top: 5px;
+}
+.container .div-12 h3 {
+    font-size: 20px;
+
 }
 
 .div-13 {
@@ -488,10 +514,22 @@ h3, p, a{
     border-radius: 16px;
     box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
     backdrop-filter: blur(4px);
-    width: 70px;
-    height: 250px;
-    margin: 60px 0;
+    width: 100px;
+    height: 840px;
+    margin-top: 5px;
     align-self: center;
+}
+.container .div-13 p {
+    font-size: 11px;
+}
+.container .div-13 h2 {
+    color: rgba(255, 0, 0, 0.851);
+    font-size: 26px;
+    margin-top: 5px;
+}
+.container .div-13 h3 {
+    font-size: 20px;
+
 }
 
 .div-14 {
@@ -503,6 +541,18 @@ h3, p, a{
     height: 250px;
     margin: 60px 0;
     align-self: center;
+}
+.container .div-14 p {
+    font-size: 11px;
+}
+.container .div-14 h2 {
+    color: rgba(255, 0, 0, 0.851);
+    font-size: 30px;
+    margin-top: 5px;
+}
+.container .div-14 h3 {
+    font-size: 20px;
+
 }
 
 .div-15 {
@@ -872,6 +922,80 @@ h3, p, a{
     margin-top:5px;
 }
 
+.div-11 {
+    width: 160px;
+    height: 930px;
+    margin-top: 5px;
+}
+.container .div-11 h2 {
+    color: rgba(255, 0, 0, 0.851);
+    margin-top: 6px;
+    font-size: 28px;
+}
+.container .div-11 h3 {
+    margin-top: 1px;
+    font-size: 23px;
+}
+.container .div-11 p {
+    font-size: 15px;
+    color: #000;
+    margin-top: 10px;
+}
+.container .div-11 img {
+    width: 150px;
+    height: 90px;
+    margin-top:5px;
+}
+.div-12 {
+    width: 160px;
+    height: 930px;
+    margin-top: 5px;
+}
+.container .div-12 h2 {
+    color: rgba(255, 0, 0, 0.851);
+    margin-top: 6px;
+    font-size: 28px;
+}
+.container .div-12 h3 {
+    margin-top: 1px;
+    font-size: 23px;
+}
+.container .div-12 p {
+    font-size: 15px;
+    color: #000;
+    margin-top: 10px;
+}
+.container .div-12 img {
+    width: 150px;
+    height: 95px;
+    margin-top:5px;
+}
+
+.div-13 {
+    width: 160px;
+    height: 930px;
+    margin-top: 5px;
+}
+.container .div-13 h2 {
+    color: rgba(255, 0, 0, 0.851);
+    margin-top: 6px;
+    font-size: 28px;
+}
+.container .div-13 h3 {
+    margin-top: 1px;
+    font-size: 23px;
+}
+.container .div-13 p {
+    font-size: 14px;
+    color: #000;
+    margin-top: 10px;
+}
+.container .div-13 img {
+    width: 150px;
+    height: 88px;
+    margin-top:5px;
+}
+
 }
 
 
@@ -1082,15 +1206,62 @@ h3, p, a{
     width: 380px;
     height: 270px;
 }
+
 .div-11 {
-    width: 195px;
-    height: 1000px;
-    margin-top: 50px;
+    width: 260px;
+    height: 1470px;
+    margin-top: 5px;
 }
+.container .div-11 h2 {
+    font-size: 35px;
+}
+.container .div-11 h3 {
+    margin-top: 3px;
+}
+.container .div-11 p {
+    font-size: 18px;
+}
+.container .div-11 img {
+    width: 250px;
+    height: 238px;
+}
+
 .div-12 {
-    width: 195px;
-    height: 600px;
-    margin-top: 50px;
+    width: 260px;
+    height: 1470px;
+    margin-top: 5px;
+}
+.container .div-12 h2 {
+    font-size: 35px;
+}
+.container .div-12 h3 {
+    margin-top: 3px;
+}
+.container .div-12 p {
+    font-size: 18px;
+}
+.container .div-12 img {
+    width: 250px;
+    height: 160px;
+}
+
+.div-13 {
+    width: 260px;
+    height: 1470px;
+    margin-top: 5px;
+}
+.container .div-13 h2 {
+    font-size: 35px;
+}
+.container .div-13 h3 {
+    margin-top: 3px;
+}
+.container .div-13 p {
+    font-size: 20px;
+}
+.container .div-13 img {
+    width: 250px;
+    height: 225px;
 }
 }
 
