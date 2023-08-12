@@ -537,22 +537,19 @@ h3, p, a{
     border-radius: 16px;
     box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
     backdrop-filter: blur(4px);
-    width: 70px;
-    height: 250px;
-    margin: 60px 0;
+    width: 150px;
+    height: 670px;
+    margin-top: 5px;
+    margin-right: 5px;
     align-self: center;
-}
-.container .div-14 p {
-    font-size: 11px;
 }
 .container .div-14 h2 {
     color: rgba(255, 0, 0, 0.851);
-    font-size: 30px;
+    font-size: 26px;
     margin-top: 5px;
 }
-.container .div-14 h3 {
-    font-size: 20px;
-
+.container .div-14 p {
+    font-size: 11px;
 }
 
 .div-15 {
@@ -560,10 +557,15 @@ h3, p, a{
     border-radius: 16px;
     box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
     backdrop-filter: blur(4px);
-    width: 70px;
-    height: 250px;
-    margin: 60px 0;
+    width: 150px;
+    height: 670px;
+    margin-top: 5px;
     align-self: center;
+}
+.container .div-15 h2 {
+    color: rgba(255, 0, 0, 0.851);
+    font-size: 26px;
+    margin-top: 5px;
 }
 
 .div-16 {
@@ -571,21 +573,38 @@ h3, p, a{
     border-radius: 16px;
     box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
     backdrop-filter: blur(4px);
-    width: 70px;
-    height: 250px;
-    margin: 60px 0;
+    width: 150px;
+    height: 1000px;
+    margin-top: 5px;
+    margin-right: 5px;
     align-self: center;
 }
+.container .div-16 p {
+    font-size: 11px;
+}
+.container .div-16 h2 {
+    color: rgba(255, 0, 0, 0.851);
+    font-size: 28px;
+    margin-top: 10px;
+}
+.container .div-16 h3 {
+    font-size: 20px;
+
+}
+
 
 .div-17 {
     border: 1px solid rgba(61, 12, 209, 0.411);
     border-radius: 16px;
     box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
     backdrop-filter: blur(4px);
-    width: 70px;
-    height: 250px;
-    margin: 60px 0;
+    width: 150px;
+    height: 1000px;
+    margin-top: 5px;
     align-self: center;
+}
+.container .div-17 img {
+    margin-top: 5px;
 }
 
 .div-18 {
@@ -926,6 +945,7 @@ h3, p, a{
     width: 160px;
     height: 930px;
     margin-top: 5px;
+    margin-left:  3px;
 }
 .container .div-11 h2 {
     color: rgba(255, 0, 0, 0.851);
@@ -943,13 +963,14 @@ h3, p, a{
 }
 .container .div-11 img {
     width: 150px;
-    height: 90px;
+    height: 95px;
     margin-top:5px;
 }
 .div-12 {
     width: 160px;
     height: 930px;
     margin-top: 5px;
+    margin-right: 3px;
 }
 .container .div-12 h2 {
     color: rgba(255, 0, 0, 0.851);
@@ -1211,6 +1232,7 @@ h3, p, a{
     width: 260px;
     height: 1470px;
     margin-top: 5px;
+    margin-right: 4px;
 }
 .container .div-11 h2 {
     font-size: 35px;
@@ -1230,6 +1252,7 @@ h3, p, a{
     width: 260px;
     height: 1470px;
     margin-top: 5px;
+    margin-right: 4px;
 }
 .container .div-12 h2 {
     font-size: 35px;
