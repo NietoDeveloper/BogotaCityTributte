@@ -139,7 +139,7 @@ h3, p, a{
 }
 .navegacion a{
     text-decoration: none;
-    font-size: 20px;
+    font-size: 16px;
     padding: 1.5rem;
     padding-left: 4rem;
     display: block;
@@ -147,7 +147,7 @@ h3, p, a{
     text-align: center;
 }
 
-@media(min-width: 768px) {
+@media(min-width: 1600px) {
     .navegacion a{
         text-align: left;
     }
@@ -161,7 +161,7 @@ h3, p, a{
     color: var(--gold);
 }
 .navegacion a:first-of-type{
-    margin-top: 5rem;
+    margin-top: 5px;
 }
 .navegacion{
     position: absolute;
@@ -612,10 +612,15 @@ h3, p, a{
     border-radius: 16px;
     box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
     backdrop-filter: blur(4px);
-    width: 70px;
-    height: 250px;
-    margin: 60px 0;
+    width: 110px;
+    height: 70px;
+    margin-top: 60px;
     align-self: center;
+}
+.container .div-18 h2 {
+    color: rgba(255, 0, 0, 0.851);
+    font-size: 32px;
+    margin-top: 10px;
 }
 
 .div-19 {
@@ -623,10 +628,14 @@ h3, p, a{
     border-radius: 16px;
     box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
     backdrop-filter: blur(4px);
-    width: 70px;
-    height: 250px;
-    margin: 60px 0;
+    width: 310px;
+    height: 265px;
+    margin-top: 5px;
     align-self: center;
+}
+.container .div-19 p {
+    font-size: 10px;
+    margin-top: 10px;
 }
 
 .div-20 {
@@ -634,10 +643,13 @@ h3, p, a{
     border-radius: 16px;
     box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
     backdrop-filter: blur(4px);
-    width: 70px;
-    height: 250px;
-    margin: 60px 0;
+    width: 105px;
+    height: 540px;
+    margin-top: 10px;
     align-self: center;
+}
+.container .div-20 img {
+    margin-top: 7px;
 }
 
 .div-21 {
@@ -645,10 +657,13 @@ h3, p, a{
     border-radius: 16px;
     box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
     backdrop-filter: blur(4px);
-    width: 70px;
-    height: 250px;
-    margin: 60px 0;
+    width: 105px;
+    height: 540px;
+    margin-top: 10px ;
     align-self: center;
+}
+.container .div-21 img {
+    margin-top: 7px;
 }
 
 .div-22 {
@@ -656,10 +671,47 @@ h3, p, a{
     border-radius: 16px;
     box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
     backdrop-filter: blur(4px);
-    width: 70px;
-    height: 250px;
-    margin: 60px 0;
+    width: 105px;
+    height: 540px;
+    margin-top: 10px;
     align-self: center;
+}
+.container .div-22 img {
+    margin-top: 7px;
+}
+
+.div-23 {
+    border: 1px solid rgba(61, 12, 209, 0.411);
+    border-radius: 16px;
+    box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
+    backdrop-filter: blur(4px);
+    width: 300px;
+    height: 300px;
+    margin-top: 60px;
+    align-self: center;
+}
+.container .div-23 h2 {
+    color: rgba(255, 0, 0, 0.851);
+    font-size: 28px;
+}
+
+.div-24 {
+    border: 1px solid rgba(61, 12, 209, 0.411);
+    border-radius: 16px;
+    box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
+    backdrop-filter: blur(4px);
+    width: 270px;
+    height: 600px;
+    margin-top: 1px;
+    align-self: center;
+    margin: 10px;
+
+}
+
+.container .div-24 img {
+    margin-top: 10px;
+    width: 200px;
+    height: 180px;
 }
 
 /*=============== SCROLL BAR ===============*/
@@ -1017,6 +1069,80 @@ h3, p, a{
     margin-top:5px;
 }
 
+.div-14 {
+    width: 240px;
+    height: 1010px;
+    margin-top: 10px;
+    margin-right: 5px;
+}
+.container .div-14 h2 {
+    color: rgba(255, 0, 0, 0.851);
+    margin-top: 6px;
+    font-size: 28px;
+}
+.container .div-14 h3 {
+    margin-top: 1px;
+    font-size: 23px;
+}
+.container .div-14 p {
+    font-size: 14px;
+    color: #000;
+    margin-top: 10px;
+}
+.container .div-14 img {
+    width: 230px;
+    height: 150px;
+    margin-top:5px;
+}
+
+.div-15 {
+    width: 240px;
+    height: 1010px;
+    margin-top: 10px;
+}
+.container .div-15 img {
+    width: 230px;
+    height: 110px;
+    margin-top:5px;
+}
+
+.div-16 {
+    width: 240px;
+    height: 1650px;
+    margin-top: 10px;
+    margin-right: 5px;
+}
+.container .div-16 h2 {
+    color: rgba(255, 0, 0, 0.851);
+    margin-top: 6px;
+    font-size: 28px;
+}
+.container .div-16 h3 {
+    margin-top: 1px;
+    font-size: 23px;
+}
+.container .div-16 p {
+    font-size: 15px;
+    color: #000;
+    margin-top: 10px;
+}
+.container .div-16 img {
+    width: 230px;
+    height: 139px;
+    margin-top:5px;
+}
+
+.div-17 {
+    width: 240px;
+    height: 1650px;
+    margin-top: 10px;
+}
+.container .div-17 img {
+    width: 230px;
+    height: 157px;
+    margin-top: 3px;
+}
+
 }
 
 
@@ -1285,6 +1411,78 @@ h3, p, a{
 .container .div-13 img {
     width: 250px;
     height: 225px;
+}
+
+.div-14 {
+    width: 400px;
+    height: 1470px;
+    margin-top: 5px;
+}
+.container .div-14 h2 {
+    font-size: 35px;
+}
+.container .div-14 h3 {
+    margin-top: 3px;
+}
+.container .div-14 p {
+    font-size: 20px;
+}
+.container .div-14 img {
+    width: 390px;
+    height: 250px;
+}
+
+.div-15 {
+    width: 380px;
+    height: 1470px;
+    margin-top: 5px;
+}
+.container .div-15 h2 {
+    font-size: 35px;
+}
+.container .div-15 img {
+    width: 370px;
+    height: 166px;
+}
+
+.div-16 {
+    width: 390px;
+    height: 2270px;
+    margin-top: 5px;
+}
+.container .div-16 h2 {
+    font-size: 35px;
+}
+.container .div-16 h3 {
+    font-size: 28px;
+    margin-top: 3px;
+}
+.container .div-16 p {
+    font-size: 17px;
+}
+.container .div-16 img {
+    width: 380px;
+    height: 263px;
+}
+
+.div-17 {
+    width: 390px;
+    height: 2270px;
+    margin-top: 5px;
+}
+.container .div-17 h2 {
+    font-size: 35px;
+}
+.container .div-17 h3 {
+    margin-top: 3px;
+}
+.container .div-17 p {
+    font-size: 17px;
+}
+.container .div-17 img {
+    width: 380px;
+    height: 212px;
+    margin-top: 10px;
 }
 }
 
