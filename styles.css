@@ -13,7 +13,7 @@
     margin: 0;
 }
 body {
-    background-image: url(assets/pics/bog6.png);
+    background-image: url(assets/pics/2020.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -1154,6 +1154,80 @@ h3, p, a{
     margin-top: 3px;
 }
 
+.div-18 {
+    width: 170px;
+    height: 60px;
+    margin-top: 20px;
+}
+.container .div-18 h2 {
+    font-size: 32px;
+    margin-top: 5px;
+}
+.div-19 {
+    width: 490px;
+    height: 390px;
+    margin-top: 10px;
+}
+.container .div-19 p {
+    font-size: 16px;
+}
+
+.div-20 {
+    width: 160px;
+    height: 820px;
+    margin-top: 5px;
+    margin-right: 3px;
+}
+.container .div-20 img {
+    width: 154px;
+    height: 122px;
+    margin-top: 8px;
+}
+.div-21 {
+    width: 160px;
+    height: 820px;
+    margin-top: 5px;
+    margin-right: 3px;
+}
+.container .div-21 img {
+    width: 154px;
+    height: 122px;
+    margin-top: 8px;
+}
+.div-22 {
+    width: 160px;
+    height: 820px;
+    margin-top: 5px;
+}
+.container .div-22 img {
+    width: 154px;
+    height: 122px;
+    margin-top: 8px;
+}
+.div-23 {
+    width: 490px;
+    height: 250px;
+    margin-top: 40px;
+}
+.container .div-23 h2 {
+    font-size: 34px;
+}
+.container .div-23 p {
+    font-size: 17px;
+}
+
+.div-24 {
+    width: 490px;
+    height: 1200px;
+    margin-top: 5px;
+}
+.container .div-24 img {
+    width: 480px;
+    margin-top: 15px;
+    height: 375px;
+}
+
+
 }
 
 
@@ -1495,6 +1569,80 @@ h3, p, a{
     height: 212px;
     margin-top: 10px;
 }
+
+.div-18 {
+    width: 280px;
+    height: 90px;
+    margin-top: 20px;
+}
+.container .div-18 h2 {
+    font-size: 38px;
+    margin-top: 15px;
+}
+.div-19 {
+    width: 750px;
+    height: 330px;
+    margin-top: 5px;
+}
+.container .div-19 p {
+    margin-top: 20px;
+    font-size: 18px;
+}
+.div-20 {
+    width: 260px;
+    height: 1130px;
+    margin-top: 5px;
+    margin-right: 3px;
+}
+.container .div-20 img {
+    width: 245px;
+    height: 170px;
+    margin-top: 12px;
+}
+.div-21 {
+    width: 260px;
+    height: 1130px;
+    margin-top: 5px;
+    margin-right: 3px;
+}
+.container .div-21 img {
+    width: 245px;
+    height: 170px;
+    margin-top: 12px;
+}
+.div-22 {
+    width: 260px;
+    height: 1130px;
+    margin-top: 5px;
+}
+.container .div-22 img {
+    width: 250px;
+    height: 170px;
+    margin-top: 12px;
+}
+.div-23 {
+    width: 600px;
+    height: 280px;
+    margin-top: 60px;
+}
+.container .div-23 h2 {
+    font-size: 40px;
+}
+.container .div-23 p {
+    font-size: 20px;
+}
+
+.div-24 {
+    width: 700px;
+    height: 1700px;
+    margin-top: 5px;
+}
+.container .div-24 img {
+    width: 650px;
+    margin-top: 15px;
+    height: 540px;
+}
+
 }
 
 
