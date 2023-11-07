@@ -218,7 +218,7 @@ h3, p, a{
 }
 100% {
   -webkit-transform: translatex(calc(-220px * 8));
-  transform: translatex(calc(-220px * 8));
+  transform: translatex(calc(-220px * 10));
 }
 
 }
