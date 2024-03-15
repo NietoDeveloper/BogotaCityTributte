@@ -888,6 +888,7 @@ margin-bottom: 15px;
 }
 .scrollup:hover{
   transform: translateY(-1rem);
+  color: red;
 }
 
 
