@@ -363,9 +363,12 @@ transform: translatex(calc(-220px * 10));
   padding: auto;
 }
 .container .div-5 h3 {
-  margin-top: 5px;
-  font-size: 20px; 
+  margin-top: 7px;
+  font-size: 21px; 
   color: blue;
+}
+.container .div-5 img {
+  margin-top: 13px;
 }
 
 .div-6 {
