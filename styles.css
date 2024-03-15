@@ -278,18 +278,6 @@ transform: translatex(calc(-220px * 10));
   padding: auto;
 }
 
-.container .div-2 h2 {
-  color: rgba(255, 0, 0, 0.851);
-  margin-top: 4px;
-  font-size: 24px;
-}
-.container .div-2 h3 {
-  font-size: 20px;
-}
-.container .div-2 p {
-  font-size: 15px;
-  color: #000;
-}
 .div-2 {
   border: 1px solid rgba(61, 12, 209, 0.411);
   border-radius: 16px;
@@ -301,6 +289,18 @@ transform: translatex(calc(-220px * 10));
   margin-right: 10px;
   align-self: center;
   padding: auto;
+}
+.container .div-2 h2 {
+  color: rgba(255, 0, 0, 0.851);
+  margin-top: 4px;
+  font-size: 24px;
+}
+.container .div-2 h3 {
+  font-size: 20px;
+}
+.container .div-2 p {
+  font-size: 15px;
+  color: #000;
 }
 
 .container .div-3 h2 {
@@ -337,15 +337,18 @@ transform: translatex(calc(-220px * 10));
   box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
   backdrop-filter: blur(4px);
   width: 150px;
-  height: 170px;
-  margin-top: 40px;
+  height: 190px;
+  margin-top: 10px;
   margin-right: 10px;
   align-self: center;
 }
 .container .div-4 h3 {
-  margin-top: 5px;
-  font-size: 20px; 
+  margin-top: 1px;
+  font-size: 21px; 
   color: blue;
+}
+.container .div-4 img {
+  margin-top: 13px;
 }
 
 .div-5 {
@@ -354,8 +357,8 @@ transform: translatex(calc(-220px * 10));
   box-shadow:0 4px 30px rgba(0, 0,0, 0.1);
   backdrop-filter: blur(4px);
   width: 150px;
-  height: 170px;
-  margin-top: 40px;
+  height: 190px;
+  margin-top: 10px;
   align-self: center;
   padding: auto;
 }
