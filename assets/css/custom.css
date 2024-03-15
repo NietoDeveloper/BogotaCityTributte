@@ -167,32 +167,5 @@
 }
 
 
-.buscador {
-    margin-top: 50px;
-}
-  
-  #pelicula {
-    margin-top: 10px;
-	display: flex;
-	flex-direction: row;
-	flex-wrap: wrap;
-	justify-content: center;
-	align-items: center;
-	padding: 0 4px;
-  }
-
- 
-.cuadro_pelicula img{ 
-    cursor: pointer;
-    width: 100%;
-	height: 240px;
-	object-fit: cover;
-	margin-top: 8px;
-	padding: 0 4px;
-	border-radius: 10px;
-
-}
-
-
 
 

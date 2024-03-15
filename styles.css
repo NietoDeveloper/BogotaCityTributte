@@ -786,15 +786,17 @@ transform: translatex(calc(-220px * 10));
   transition: .3s;
 }
 .footer__logo{
-  font-size: 26px;
-  color: blue;
+  margin-left: 20px;
+  font-size: 20px;
+  color: rgb(188, 255, 4);
 }
 .footer__logo:hover{
-  color: rgb(248, 73, 4);
+  color: rgba(255, 0, 0, 0.851);
+  font-size: 23px;
 }
 .footer__description {
   color: blue;
-  font-size: 18px;
+  font-size: 20px;
   margin-left: 35px;
 }
 .footer__logo i{
@@ -803,7 +805,7 @@ transform: translatex(calc(-220px * 10));
 }
 .footer__title{
   margin-left: 30px;
-  font-size: 18px;
+  font-size: 20px;
   margin-bottom: 1.1rem;
   color: blue;
 }
@@ -811,11 +813,12 @@ transform: translatex(calc(-220px * 10));
   display: flex;
   flex-direction: column;
   row-gap: .7rem;
-  color: rgb(248, 73, 4);
-  font-size: 18px;
+  color: rgb(188, 255, 4);
+  font-size: 16px;
 }
 .footer__links:hover{
-  color: rgb(188, 255, 4);
+  color: rgba(255, 0, 0, 0.851);
+  font-size: 20px;
 }
 .footer__link,
 .footer__social-link{
@@ -824,7 +827,7 @@ transform: translatex(calc(-220px * 10));
 }
 .footer__link:hover,
 .footer__social-link:hover{
-  color: rgb(188, 255, 4);
+  color: rgba(255, 0, 0, 0.851);
 }
 .footer__social-link{
   font-size: 50px;
@@ -837,18 +840,20 @@ transform: translatex(calc(-220px * 10));
   font-size: 17px;
 }
 .footer__copy p {
-color: rgb(248, 73, 4);
+color: blue;
 font-size: 15px;
+margin-bottom: 15px;
 }
 .footer__dev-link{
-  color: rgb(248, 73, 4);
-  font-size: 21px;
+  color: rgb(188, 255, 4);
+  font-size: 17px;
 }
 .footer__copy,
 .footer__dev-link:hover{
-  color: rgb(188, 255, 4);
+  color: rgba(255, 0, 0, 0.851);
   transition: .3s;
   animation: a 3s infinite; 
+  font-size: 20px;
 }
 
 /*=============== SCROLL BAR ===============*/
@@ -875,7 +880,7 @@ font-size: 15px;
   background-color: rgb(188, 255, 4);
   display: inline-flex;
   padding: .35rem;
-  border-radius: .5rem;
+  border-radius: 1rem;
   font-size: .7rem;
   color: var(--white-color);
   z-index: var(--z-tooltip);
