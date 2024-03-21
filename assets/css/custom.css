@@ -438,7 +438,7 @@ a {
 
 .container .div-7 h2 {
   color: rgba(255, 0, 0, 0.851);
-  font-size: 28px;
+  font-size: 30px;
   margin-top: 15px;
 }
 
@@ -454,7 +454,7 @@ a {
   margin-right: 4px;
 }
 .container .div-7 img {
-  margin-top: 50px;
+  margin-top: 20px;
 }
 
 .div-8 {
@@ -470,18 +470,19 @@ a {
 
 .container .div-8 p {
   font-size: 12px;
+  margin-top: 30px;
+  margin-left: 8px;
+  margin-right: 4px;
 }
 
 .container .div-8 h2 {
   color: rgba(255, 0, 0, 0.851);
   font-size: 28px;
-  margin-top: 5px;
+  margin-top: 25px;
 }
-
-.container .div-8 h3 {
-  margin-top: 5px;
+.container .div-8 img {
+  margin-top: 30px;
 }
-
 .div-9 {
   border: 1px solid rgba(61, 12, 209, 0.411);
   border-radius: 16px;
@@ -489,7 +490,7 @@ a {
   backdrop-filter: blur(4px);
   width: 155px;
   height: 855px;
-  margin-top: 5px;
+  margin-top: 30px;
   align-self: center;
 }
 
@@ -517,7 +518,7 @@ a {
   width: 155px;
   height: 855px;
   align-self: center;
-  margin-top: 5px;
+  margin-top: 30px;
 }
 
 .container .div-10 p {
@@ -1016,13 +1017,13 @@ a {
   }
 
   .container .div-8 p {
-    font-size: 16px;
+    font-size: 15px;
     margin-top: 15px;
   }
 
   .container .div-8 img {
     width: 150px;
-    height: 125px;
+    height: 135px;
     margin-top: 10px;
   }
 
