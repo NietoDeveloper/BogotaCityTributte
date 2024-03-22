@@ -443,7 +443,7 @@ a {
 }
 
 .container .div-7 h3 {
-  margin-top: 15px;
+  margin-top: 50px;
   font-size: 18px;
 }
 
@@ -489,24 +489,30 @@ a {
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(4px);
   width: 155px;
-  height: 855px;
-  margin-top: 30px;
+  height: 1330px;
+  margin-top: 70px;
   align-self: center;
 }
 
 .container .div-9 p {
-  font-size: 12px;
+  font-size: 15px;
+  margin-top: 20px;
+  margin-left: 8px;
+  margin-right: 4px;
 }
 
 .container .div-9 h2 {
   color: rgba(255, 0, 0, 0.851);
-  font-size: 28px;
-  margin-top: 5px;
+  font-size: 34px;
+  margin-top: 20px;
 }
 
 .container .div-9 h3 {
-  font-size: 20px;
-
+  font-size: 25px;
+  margin-top: 15px;
+}
+.container .div-9 img {
+  margin-top: 20px;
 }
 
 
@@ -516,24 +522,28 @@ a {
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(4px);
   width: 155px;
-  height: 855px;
+  height: 1330px;
   align-self: center;
-  margin-top: 30px;
+  margin-top: 70px;
 }
 
 .container .div-10 p {
-  font-size: 11px;
+  font-size: 14px;
+  margin-top: 25px;
 }
 
 .container .div-10 h2 {
   color: rgba(255, 0, 0, 0.851);
-  font-size: 28px;
-  margin-top: 5px;
+  font-size: 34px;
+  margin-top: 20px;
 }
 
 .container .div-10 h3 {
-  font-size: 20px;
-
+  font-size: 25px;
+  margin-top: 20px;
+}
+.container .div-10 img {
+  margin-top: 25px;
 }
 
 .div-11 {
@@ -586,8 +596,8 @@ a {
 }
 
 .container .div-12 h3 {
-  font-size: 20px;
-
+  font-size: 25px;
+  margin-top: 20px;
 }
 
 .div-13 {
