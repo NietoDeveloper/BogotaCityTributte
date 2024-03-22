@@ -530,6 +530,8 @@ a {
 .container .div-10 p {
   font-size: 14px;
   margin-top: 25px;
+  margin-left: 8px;
+  margin-right: 4px;
 }
 
 .container .div-10 h2 {
@@ -1039,60 +1041,58 @@ a {
 
   .div-9 {
     width: 250px;
-    height: 970px;
-    margin-top: 5px;
+    height: 1550px;
+    margin-top: 40px;
   }
 
   .container .div-9 h2 {
     color: rgba(255, 0, 0, 0.851);
-    margin-top: 6px;
-    font-size: 32px;
+    margin-top: 26px;
+    font-size: 36px;
   }
 
   .container .div-9 h3 {
-    margin-top: 5px;
+    margin-top: 30px;
     font-size: 26px;
   }
 
   .container .div-9 p {
-    font-size: 15px;
-    color: #000;
-    margin-top: 5px;
+    font-size: 20px;
+    margin-top: 15px;
   }
 
   .container .div-9 img {
-    width: 240px;
-    height: 150px;
-    margin-top: 5px;
+    width: 250px;
+    height: 210px;
+    margin-top: 25px;
   }
 
   .div-10 {
-    width: 245px;
-    height: 970px;
-    margin-top: 5px;
+    width: 250px;
+    height: 1550px;
+    margin-top: 40px;
   }
 
   .container .div-10 h2 {
     color: rgba(255, 0, 0, 0.851);
-    margin-top: 6px;
-    font-size: 32px;
+    margin-top: 26px;
+    font-size: 36px;
   }
 
   .container .div-10 h3 {
-    margin-top: 5px;
+    margin-top: 30px;
     font-size: 26px;
   }
 
   .container .div-10 p {
-    font-size: 14px;
-    color: #000;
-    margin-top: 5px;
+    font-size: 18px;
+    margin-top: 15px;
   }
 
   .container .div-10 img {
-    width: 236px;
-    height: 140px;
-    margin-top: 5px;
+    width: 250px;
+    height: 210px;
+    margin-top: 25px;
   }
 
   .div-11 {
@@ -1562,7 +1562,7 @@ a {
 
   .div-9 {
     width: 390px;
-    height: 1400px;
+    height: 1500px;
     margin-top: 5px;
     margin-right: 10px;
   }
@@ -1581,13 +1581,13 @@ a {
   }
 
   .container .div-9 img {
-    width: 380px;
-    height: 270px;
+    width: 385px;
+    height: 275px;
   }
 
   .div-10 {
     width: 390px;
-    height: 1400px;
+    height: 1500px;
     margin-top: 5px;
   }
 
@@ -1605,14 +1605,14 @@ a {
   }
 
   .container .div-10 img {
-    width: 380px;
+    width: 385px;
     height: 270px;
   }
 
   .div-11 {
     width: 260px;
-    height: 1470px;
-    margin-top: 5px;
+    height: 1600px;
+    margin-top: 50px;
     margin-right: 4px;
   }
 
@@ -1635,8 +1635,8 @@ a {
 
   .div-12 {
     width: 260px;
-    height: 1470px;
-    margin-top: 5px;
+    height: 1600px;
+    margin-top: 50px;
     margin-right: 4px;
   }
 
@@ -1659,8 +1659,8 @@ a {
 
   .div-13 {
     width: 260px;
-    height: 1470px;
-    margin-top: 5px;
+    height: 1600px;
+    margin-top: 50px;
   }
 
   .container .div-13 h2 {
