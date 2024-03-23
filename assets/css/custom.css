@@ -737,9 +737,9 @@ a {
   border-radius: 16px;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(4px);
-  width: 110px;
+  width: 160px;
   height: 70px;
-  margin-top: 40px;
+  margin-top: 50px;
   align-self: center;
 }
 
@@ -755,14 +755,16 @@ a {
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(4px);
   width: 320px;
-  height: 260px;
-  margin-top: 5px;
+  height: 500px;
+  margin-top: 15px;
   align-self: center;
 }
 
 .container .div-19 p {
-  font-size: 10px;
+  font-size: 15px;
   margin-top: 12px;
+  margin-left: 8px;
+  margin-right: 4px;
 }
 
 .div-20 {
