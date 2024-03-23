@@ -470,7 +470,7 @@ a {
 
 .container .div-8 p {
   font-size: 12px;
-  margin-top: 30px;
+  margin-top: 20px;
   margin-left: 8px;
   margin-right: 4px;
 }
@@ -478,10 +478,10 @@ a {
 .container .div-8 h2 {
   color: rgba(255, 0, 0, 0.851);
   font-size: 28px;
-  margin-top: 25px;
+  margin-top: 20px;
 }
 .container .div-8 img {
-  margin-top: 30px;
+  margin-top: 20px;
 }
 .div-9 {
   border: 1px solid rgba(61, 12, 209, 0.411);
@@ -545,7 +545,7 @@ a {
   margin-top: 20px;
 }
 .container .div-10 img {
-  margin-top: 25px;
+  margin-top: 15px;
 }
 
 .div-11 {
@@ -554,9 +554,9 @@ a {
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(4px);
   width: 100px;
-  height: 840px;
+  height: 860px;
   align-self: center;
-  margin-top: 5px;
+  margin-top: 40px;
   margin-right: 1px;
 }
 
@@ -572,7 +572,9 @@ a {
 
 .container .div-11 h3 {
   font-size: 20px;
-
+}
+.container .div-11 img {
+  margin-top: 20px;
 }
 
 .div-12 {
@@ -581,8 +583,8 @@ a {
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(4px);
   width: 100px;
-  height: 840px;
-  margin-top: 5px;
+  height: 860px;
+  margin-top: 40px;
   margin-right: 1px;
   align-self: center;
 }
@@ -593,13 +595,16 @@ a {
 
 .container .div-12 h2 {
   color: rgba(255, 0, 0, 0.851);
-  font-size: 28px;
+  font-size: 25px;
   margin-top: 5px;
 }
 
 .container .div-12 h3 {
-  font-size: 25px;
-  margin-top: 20px;
+  font-size: 20px;
+  margin-top: 10px;
+}
+.container .div-12 img {
+  margin-top: 5px;
 }
 
 .div-13 {
@@ -608,13 +613,14 @@ a {
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(4px);
   width: 100px;
-  height: 840px;
-  margin-top: 5px;
+  height: 860px;
+  margin-top: 40px;
   align-self: center;
 }
 
 .container .div-13 p {
   font-size: 11px;
+  margin-top: 10px;
 }
 
 .container .div-13 h2 {
@@ -625,7 +631,9 @@ a {
 
 .container .div-13 h3 {
   font-size: 20px;
-
+}
+.container .div-13 img {
+  margin-top: 15px;
 }
 
 .div-14 {
@@ -1138,48 +1146,42 @@ a {
   }
 
   .container .div-12 h3 {
-    margin-top: 1px;
-    font-size: 23px;
-  }
-
-  .container .div-12 p {
-    font-size: 15px;
     margin-top: 10px;
+    font-size: 23px;
   }
 
   .container .div-12 img {
     width: 154px;
-    height: 92px;
-    margin-top: 5px;
+    height: 125px;
+    margin-top: 8px;
   }
 
   .div-13 {
     width: 160px;
-    height: 930px;
-    margin-top: 5px;
+    height: 1250px;
+    margin-top: 60px;
   }
 
   .container .div-13 h2 {
     color: rgba(255, 0, 0, 0.851);
-    margin-top: 6px;
+    margin-top: 25px;
     font-size: 28px;
   }
 
   .container .div-13 h3 {
-    margin-top: 1px;
+    margin-top: 20px;
     font-size: 23px;
   }
 
   .container .div-13 p {
-    font-size: 14px;
-    color: #000;
-    margin-top: 10px;
+    font-size: 17px;
+    margin-top: 20px;
   }
 
   .container .div-13 img {
-    width: 150px;
-    height: 88px;
-    margin-top: 5px;
+    width: 154px;
+    height: 120px;
+    margin-top: 15px;
   }
 
   .div-14 {
