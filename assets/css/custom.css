@@ -1097,38 +1097,37 @@ a {
 
   .div-11 {
     width: 160px;
-    height: 930px;
-    margin-top: 5px;
+    height: 1250px;
+    margin-top: 60px;
     margin-left: 3px;
   }
 
   .container .div-11 h2 {
     color: rgba(255, 0, 0, 0.851);
-    margin-top: 6px;
+    margin-top: 25px;
     font-size: 28px;
   }
 
   .container .div-11 h3 {
-    margin-top: 1px;
+    margin-top: 20px;
     font-size: 23px;
   }
 
   .container .div-11 p {
-    font-size: 15px;
-    color: #000;
-    margin-top: 10px;
+    font-size: 17px;
+    margin-top: 20px;
   }
 
   .container .div-11 img {
-    width: 150px;
-    height: 95px;
-    margin-top: 5px;
+    width: 154px;
+    height: 120px;
+    margin-top: 20px;
   }
 
   .div-12 {
     width: 160px;
-    height: 930px;
-    margin-top: 5px;
+    height: 1250px;
+    margin-top: 60px;
     margin-right: 3px;
   }
 
@@ -1145,13 +1144,12 @@ a {
 
   .container .div-12 p {
     font-size: 15px;
-    color: #000;
     margin-top: 10px;
   }
 
   .container .div-12 img {
-    width: 150px;
-    height: 95px;
+    width: 154px;
+    height: 92px;
     margin-top: 5px;
   }
 
@@ -1611,73 +1609,80 @@ a {
 
   .div-11 {
     width: 260px;
-    height: 1600px;
+    height: 1880px;
     margin-top: 50px;
     margin-right: 4px;
   }
 
   .container .div-11 h2 {
-    font-size: 35px;
+    font-size: 40px;
+    margin-top: 30px;
   }
 
   .container .div-11 h3 {
-    margin-top: 3px;
+    margin-top: 10px;
+    font-size: 32px;
   }
 
   .container .div-11 p {
-    font-size: 18px;
+    font-size: 20px;
+    margin-top: 20px;
   }
 
   .container .div-11 img {
     width: 250px;
-    height: 238px;
+    height: 255px;
+    margin-top: 50px;
   }
 
   .div-12 {
     width: 260px;
-    height: 1600px;
+    height: 1880px;
     margin-top: 50px;
     margin-right: 4px;
   }
 
   .container .div-12 h2 {
-    font-size: 35px;
+    font-size: 30px;
+    margin-top: 20px;
   }
 
   .container .div-12 h3 {
-    margin-top: 3px;
-  }
-
-  .container .div-12 p {
-    font-size: 18px;
+    margin-top: 10px;
+    font-size: 32;
   }
 
   .container .div-12 img {
     width: 250px;
-    height: 160px;
+    height: 212px;
+    margin-top: 5px;
   }
 
   .div-13 {
     width: 260px;
-    height: 1600px;
+    height: 1880px;
     margin-top: 50px;
   }
 
   .container .div-13 h2 {
     font-size: 35px;
+    margin-top: 30px;
   }
 
   .container .div-13 h3 {
-    margin-top: 3px;
+    margin-top: 10px;
+    font-size: 32px;
   }
 
   .container .div-13 p {
-    font-size: 20px;
+    font-size: 22px;
+    margin-top: 30px;
   }
 
   .container .div-13 img {
     width: 250px;
-    height: 225px;
+    height: 240px;
+    margin-top: 50px;
   }
 
   .div-14 {
