@@ -642,8 +642,8 @@ a {
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(4px);
   width: 150px;
-  height: 670px;
-  margin-top: 5px;
+  height: 950px;
+  margin-top: 40px;
   margin-right: 5px;
   align-self: center;
 }
@@ -651,15 +651,16 @@ a {
 .container .div-14 h2 {
   color: rgba(255, 0, 0, 0.851);
   font-size: 26px;
-  margin-top: 5px;
+  margin-top: 20px;
 }
 
 .container .div-14 p {
-  font-size: 11px;
+  font-size: 12px;
+  margin-top: 15px;
 }
 
 .container .div-14 img {
-  margin-top: 2px;
+  margin-top:10px;
 }
 
 .div-15 {
@@ -668,19 +669,18 @@ a {
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(4px);
   width: 150px;
-  height: 670px;
-  margin-top: 5px;
+  height: 950px;
+  margin-top: 40px;
   align-self: center;
-}
-
-.container .div-15 p {
-  font-size: 13px;
 }
 
 .container .div-15 h2 {
   color: rgba(255, 0, 0, 0.851);
   font-size: 26px;
-  margin-top: 5px;
+  margin-top: 10px;
+}
+.container .div-15 img {
+  margin-top:10px;
 }
 
 .div-16 {
@@ -689,29 +689,31 @@ a {
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(4px);
   width: 150px;
-  height: 1350px;
-  margin-top: 5px;
+  height: 1600px;
+  margin-top: 50px;
   margin-right: 5px;
   align-self: center;
 }
 
 .container .div-16 p {
-  font-size: 11px;
+  font-size: 13px;
+  margin-left: 8px;
+  margin-right: 4px;
 }
 
 .container .div-16 h2 {
   color: rgba(255, 0, 0, 0.851);
-  font-size: 28px;
-  margin-top: 10px;
+  font-size: 30px;
+  margin-top: 30px;
 }
 
 .container .div-16 h3 {
   font-size: 20px;
+  margin-top: 15px;
 }
 
 .container .div-16 img {
-  margin-top: 5px;
-  height: 101px;
+  margin-top: 10px;
 }
 
 
@@ -721,14 +723,13 @@ a {
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(4px);
   width: 150px;
-  height: 1350px;
-  margin-top: 5px;
+  height: 1600px;
+  margin-top: 50px;
   align-self: center;
 }
 
 .container .div-17 img {
-  margin-top: 5px;
-  height: 125px;
+  margin-top: 15px;
 }
 
 .div-18 {
