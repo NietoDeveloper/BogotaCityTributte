@@ -774,7 +774,7 @@ a {
   backdrop-filter: blur(4px);
   width: 105px;
   height: 540px;
-  margin-top: 5px;
+  margin-top: 25px;
   margin-right: 3px;
   align-self: center;
 }
@@ -790,7 +790,7 @@ a {
   backdrop-filter: blur(4px);
   width: 105px;
   height: 540px;
-  margin-top: 5px;
+  margin-top: 25px;
   margin-right: 3px;
   align-self: center;
 }
@@ -806,7 +806,7 @@ a {
   backdrop-filter: blur(4px);
   width: 105px;
   height: 540px;
-  margin-top: 5px;
+  margin-top: 25px;
   align-self: center;
 }
 
