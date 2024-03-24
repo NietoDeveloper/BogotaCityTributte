@@ -773,14 +773,14 @@ a {
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(4px);
   width: 105px;
-  height: 540px;
+  height: 750px;
   margin-top: 25px;
   margin-right: 3px;
   align-self: center;
 }
 
 .container .div-20 img {
-  margin-top: 7px;
+  margin-top: 15px;
 }
 
 .div-21 {
