@@ -1779,7 +1779,7 @@ a {
   .div-18 {
     width: 280px;
     height: 90px;
-    margin-top: 20px;
+    margin-top: 60px;
   }
 
   .container .div-18 h2 {
@@ -1789,7 +1789,7 @@ a {
 
   .div-19 {
     width: 750px;
-    height: 330px;
+    height: 320px;
     margin-top: 5px;
   }
 
@@ -1838,16 +1838,17 @@ a {
 
   .div-23 {
     width: 600px;
-    height: 280px;
+    height: 350px;
     margin-top: 60px;
   }
 
   .container .div-23 h2 {
-    font-size: 40px;
+    margin-top: 10px;
+    font-size: 50px;
   }
 
   .container .div-23 p {
-    font-size: 20px;
+    font-size: 23px;
   }
 
   .div-24 {
