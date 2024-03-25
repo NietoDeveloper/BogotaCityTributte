@@ -132,30 +132,33 @@ a {
   margin-left: 30px;
   font-size: 18px;
   margin-bottom: 1.1rem;
-  color: blue;
+  color: rgb(206, 6, 6);
 }
 
 .footer__links {
   display: flex;
   flex-direction: column;
   row-gap: 0.7rem;
-  color: rgb(188, 255, 4);
+  color: blue;
   font-size: 17px;
 }
 
 .footer__links:hover {
-  color: rgb(206, 6, 6);
+  font-size: 19px;
+  color: rgb(188, 255, 4);
+  transition: 0.3s;
 }
 
 .footer__link,
 .footer__social-link {
-  color: rgb(188, 255, 4);
+  color: blue;
   transition: 0.3s;
 }
 
 .footer__link:hover,
 .footer__social-link:hover {
-  color: rgb(206, 6, 6);
+  color: rgb(188, 255, 4);
+  font-size: 60px;
 }
 
 .footer__social-link {
