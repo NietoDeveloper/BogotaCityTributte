@@ -204,7 +204,7 @@ a {
 }
 
 .slider {
-  margin-top: 1px;
+  margin-top: 5px;
   width: 100%;
   height: 120px;
   overflow: hidden;
@@ -820,14 +820,21 @@ a {
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(4px);
   width: 320px;
-  height: 290px;
+  height: 330px;
   margin-top: 60px;
   align-self: center;
 }
 
 .container .div-23 h2 {
   color: rgba(255, 0, 0, 0.851);
-  font-size: 28px;
+  font-size: 32px;
+  margin-top: 15px;
+}
+.container .div-23 p {
+  font-size: 16px;
+  margin-top: 15px;
+  margin-left: 8px;
+  margin-right: 4px;
 }
 
 .div-24 {
@@ -1332,16 +1339,17 @@ a {
 
   .div-23 {
     width: 490px;
-    height: 250px;
-    margin-top: 40px;
+    height: 300px;
+    margin-top: 50px;
   }
 
   .container .div-23 h2 {
-    font-size: 34px;
+    font-size: 40px;
+    margin-top: 20px;
   }
 
   .container .div-23 p {
-    font-size: 17px;
+    font-size: 18px;
   }
 
   .div-24 {
@@ -1838,12 +1846,12 @@ a {
 
   .div-23 {
     width: 600px;
-    height: 350px;
+    height: 400px;
     margin-top: 60px;
   }
 
   .container .div-23 h2 {
-    margin-top: 10px;
+    margin-top: 20px;
     font-size: 50px;
   }
 
@@ -1853,14 +1861,14 @@ a {
 
   .div-24 {
     width: 700px;
-    height: 1700px;
+    height: 1780px;
     margin-top: 5px;
   }
 
   .container .div-24 img {
-    width: 650px;
+    width: 670px;
     margin-top: 15px;
-    height: 540px;
+    height: 560px;
   }
 
 }
