@@ -112,11 +112,13 @@ a {
 }
 
 .footer__logo:hover {
-  color: red;
+  color: rgb(188, 255, 4);
+  font-size: 28px;
+  transition: 0.3s;
 }
 
 .footer__description {
-  color: blue;
+  color: rgb(206, 6, 6);
   font-size: 18px;
   margin-left: 35px;
 }
