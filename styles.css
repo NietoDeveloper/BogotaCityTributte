@@ -180,14 +180,14 @@ a {
 
 .footer__dev-link {
   color: blue;
-  font-size: 24px;
+  font-size: 23px;
 }
 
 .footer__copy,
 .footer__dev-link:hover {
   color: rgb(188, 255, 4);
   transition: 0.3s;
-  font-size: 26px;
+  font-size: 25px;
 }
 
 /*=============== SCROLL BAR ===============*/
