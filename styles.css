@@ -174,20 +174,20 @@ a {
 }
 
 .footer__copy p {
-  color: greenyellow;
-  font-size: 14px;
+  color: rgb(188, 255, 4);
+  font-size: 15px;
 }
 
 .footer__dev-link {
-  color: greenyellow;
+  color: blue;
   font-size: 24px;
 }
 
 .footer__copy,
 .footer__dev-link:hover {
-  color: red;
+  color: rgb(188, 255, 4);
   transition: 0.3s;
-  animation: a 3s infinite;
+  font-size: 26px;
 }
 
 /*=============== SCROLL BAR ===============*/
