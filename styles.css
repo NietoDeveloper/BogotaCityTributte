@@ -1,11 +1,11 @@
-:root{
+:root {
   --gold: gold;
   --scarlet: rgba(255, 0, 0, 0.851);
-  --gainsboro:gainsboro;
+  --gainsboro: gainsboro;
   --blue: blue;
-  --oscuro:#000;
-  --titulos:'Arima Madurai',cursive;
-  --parrafos:'Mulish', sans-serif;
+  --oscuro: #000;
+  --titulos: 'Arima Madurai', cursive;
+  --parrafos: 'Mulish', sans-serif;
   --z-tooltip: 10;
   --z-fixed: 100;
 }
