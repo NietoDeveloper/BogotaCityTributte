@@ -186,9 +186,9 @@ a {
   height: 800px;
   width: 100%;
   padding: 50px 50px;
-  backdrop-filter: blur(10px);
+  backdrop-filter: blur(6px);
   background-color: transparent;
-  animation: desplazamiento .5s ease-in-out;
+  animation: desplazamiento .7s ease-in-out;
 }
 
 .hamburguesa span {
@@ -208,7 +208,7 @@ a {
 .hamburguesa:hover {
   cursor: pointer;
   transform: rotate(90deg);
-  transition: 0.4s;
+  transition: 0.6s;
 }
 
 .slider {
