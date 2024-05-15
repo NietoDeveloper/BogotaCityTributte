@@ -191,16 +191,24 @@ a {
   animation: desplazamiento .5s ease-in-out;
 }
 
-.hamburguesa:hover {
-  cursor: pointer;
-}
-
 .hamburguesa span {
   background-color: var(--scarlet);
   display: block;
-  width: 45px;
-  height: 7px;
-  margin-bottom: 3px;
+  width: 40px;
+  height: 4px;
+  margin-bottom: 6px;
+  margin-right: 10px;
+}
+@media (min-width: 679px) {
+  .hamburguesa span {
+    width: 46px;
+    margin-right: 20px;
+  }
+}
+.hamburguesa:hover {
+  cursor: pointer;
+  transform: rotate(90deg);
+  transition: 0.4s;
 }
 
 .slider {
