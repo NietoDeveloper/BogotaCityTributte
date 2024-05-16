@@ -174,7 +174,7 @@ a {
 }
 
 .footer__copy p {
-  color: rgb(188, 255, 4);
+  color: var(--blue);
   font-size: 15px;
 }
 
