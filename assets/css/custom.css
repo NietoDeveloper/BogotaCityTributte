@@ -873,6 +873,24 @@ a {
   height: 230px;
 }
 
+.banner {
+  border: 1px solid rgba(61, 12, 209, 0.411);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(4px);
+  width: 340px;
+  height: 570px;
+  margin-top: 1px;
+  align-self: center;
+
+}
+
+.container .banner img {
+  margin-top: 10px;
+  width: 330px;
+  height: 550px;
+}
+
 
 @media screen and (max-width: 320px) {}
 
@@ -960,7 +978,6 @@ a {
     height: 170px;
     margin-top: 25px;
   }
-
 
   .div-4 {
     width: 240px;
@@ -1381,7 +1398,6 @@ a {
     margin-top: 15px;
     height: 375px;
   }
-
 
 }
 
