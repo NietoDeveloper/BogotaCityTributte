@@ -1375,7 +1375,7 @@ a {
   .div-23 {
     width: 490px;
     height: 300px;
-    margin-top: 50px;
+    margin-top: 120px;
   }
 
   .container .div-23 h2 {
@@ -1401,13 +1401,13 @@ a {
 
   .banner {
     width: 510px;
-    height: 570px;
+    height: 580px;
   }
   
   .container .banner img {
-    margin-top: 20px;
+    margin-top: 10px;
     width: 500px;
-    height: 650px;
+    height: 560px;
   }
 
 }
@@ -1892,7 +1892,7 @@ a {
   .div-23 {
     width: 600px;
     height: 400px;
-    margin-top: 60px;
+    margin-top: 20px;
   }
 
   .container .div-23 h2 {
