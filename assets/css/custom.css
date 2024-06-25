@@ -409,7 +409,7 @@ a {
   backdrop-filter: blur(4px);
   width: 100px;
   height: 2450px;
-  margin-top: 40px;
+  margin-top: 10px;
   align-self: center;
   margin-right: 5px;
   padding: auto;
@@ -439,7 +439,7 @@ a {
   backdrop-filter: blur(4px);
   width: 100px;
   height: 2450px;
-  margin-top: 40px;
+  margin-top: 10px;
   margin-right: 5px;
   align-self: center;
 }
@@ -473,7 +473,7 @@ a {
   backdrop-filter: blur(4px);
   width: 100px;
   height: 2450px;
-  margin-top: 40px;
+  margin-top: 10px;
   align-self: center;
 }
 
@@ -880,14 +880,14 @@ a {
   backdrop-filter: blur(4px);
   width: 340px;
   height: 570px;
-  margin-top: 1px;
+  margin-top: 20px;
   align-self: center;
 
 }
 
 .container .banner img {
   margin-top: 10px;
-  width: 330px;
+  width: 320px;
   height: 550px;
 }
 
@@ -1399,6 +1399,17 @@ a {
     height: 375px;
   }
 
+  .banner {
+    width: 510px;
+    height: 570px;
+  }
+  
+  .container .banner img {
+    margin-top: 20px;
+    width: 500px;
+    height: 650px;
+  }
+
 }
 
 
@@ -1903,6 +1914,16 @@ a {
     width: 670px;
     margin-top: 15px;
     height: 560px;
+  }
+
+  .banner {
+    width: 620px;
+    height: 760px;
+  }
+  
+  .container .banner img {
+    width: 600px;
+    height: 720px;
   }
 
 }
