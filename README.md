@@ -1,4 +1,4 @@
-# [Your Project Name]
+# [Bogota City Tributte]
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Stars](https://img.shields.io/github/stars/[your-github-username]/[your-repo-name])](https://github.com/[your-github-username]/[your-repo-name]/stargazers)
@@ -47,11 +47,14 @@ Provide clear and concise steps on how to get the project files. For a front-end
 
 **Example:**
 
-1.  Clone the repository:
+1. Clone the repository:
+
     ```bash
-    git clone [https://github.com/](https://github.com/)[your-github-username]/[your-repo-name].git
+    git clone https://github.com/NietoDeveloper/BogotaCityTributte
     ```
-2.  Navigate to the project directory:
+
+2. Navigate to the project directory:
+
     ```bash
     cd [your-repo-name]
     ```
@@ -62,4 +65,4 @@ Explain how to use your project. Provide examples of how to interact with it or 
 
 **Example:**
 
-1.  Open the `index.html` file in your
+1. Open the `index.html` file in your
