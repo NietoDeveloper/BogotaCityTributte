@@ -1,29 +1,5 @@
 
 
-## About the Project
-
-Provide a more detailed explanation of your project here. What problem does it solve? What are its goals? Elaborate on its core functionality and any unique aspects.
-
-**Example:**
-
-> This project is a simple yet powerful image carousel built entirely with Vanilla JavaScript. It offers a lightweight and customizable solution for displaying image galleries on your website without relying on any external libraries or frameworks. Key features include smooth transitions, optional autoplay, and responsive design.
-
-## Getting Started
-
-This section guides users on how to get your project running locally.
-
-### Prerequisites
-
-List any software or tools that need to be installed before using your project. For a Vanilla JS project, this might be as simple as a web browser.
-
-**Example:**
-
-> You will need a modern web browser (Chrome, Firefox, Safari, etc.) to view and interact with this project.
-
-### Installation
-
-Provide clear and concise steps on how to get the project files. For a front-end Vanilla JS project, this usually involves cloning the repository.
-
 **Example:**
 
 1. Clone the repository:
@@ -45,6 +21,9 @@ Explain how to use your project. Provide examples of how to interact with it or 
 **Example:**
 
 1. Open the `index.html` file in your
+
+
+
 
 # [Bogota City Tributte]
 
