@@ -57,7 +57,7 @@ To set up the project locally, follow these steps:
 
 Installation
 
-Clone the repository:git clone <https://github.com/NietoDeveloper/RentCar>
+Clone the repository:git clone <https://github.com/NietoDeveloper/BogotaCityTributte>
 
 
 Open index.html in a web browser.
