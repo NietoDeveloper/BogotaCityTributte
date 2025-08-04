@@ -11,7 +11,7 @@
 2. Navigate to the project directory:
 
     ```bash
-    cd [BogotaCityTributte]
+    cd BogotaCityTributte
     ```
 
 ### Usage
