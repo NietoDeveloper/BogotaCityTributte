@@ -31,11 +31,11 @@ Explain how to use your project. Provide examples of how to interact with it or 
 
 # Information Site
 
-Welcome Rent Car Bogota! This site serves as an e-commerce.
+Welcome to Bogota! This site serves as an Landing Page Trubutte Bogota City Tributte.
 
 ## About
 
-This e-commerce is built with vanilla JavaScript for a local vehicle rental business.
+This site is built with vanilla JavaScript
 
 ## Technologies Used
 
