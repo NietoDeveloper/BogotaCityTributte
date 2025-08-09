@@ -60,3 +60,4 @@ Open a pull request.
 License
 MIT License. See LICENSE for details.
 
+## Manuel Nieto Software Developer
