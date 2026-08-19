@@ -1,3 +1,3 @@
 # [Bogota City Tributte]
 
-## Vanilla JS 
+## Vanill
