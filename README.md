@@ -186,7 +186,7 @@ MIT License. See [LICENSE](./LICENSE) for details.
 
 ---
 
-## 🔄 Page Rendering Flow
+
 
 
 
