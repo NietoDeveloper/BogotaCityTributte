@@ -10,10 +10,7 @@ Welcome to Bogota! This site serves as an Landing Page Trubutte Bogota City Trib
 Clone the repository:git clone <https://github.com/NietoDeveloper/
 
 Navigate through the website using the browser.
-A
-
-Project Structure
-├── index.html        # Main HTML file
+      # Main HTML file
 ├── styles .css       # CSS styles
 │  
 ├── js/
