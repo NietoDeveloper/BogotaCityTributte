@@ -171,9 +171,7 @@ MIT License. See [LICENSE](./LICENSE) for details.
 </p>
 
 
-  <a href="https://github.com/NietoDeveloper/BogotaCityTributte">
-    <img src="https://img.shields.io/badge/📂_Source-NietoDeveloper%2FBogotaCityTributte-000000?style=for-the-badge&logo=github&logoColor=FFD700"/>
-  </a>
+
 </p>
 
 </div>
