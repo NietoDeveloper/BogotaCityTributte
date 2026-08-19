@@ -4,7 +4,7 @@
 
 # Information Site
 
-Welcome to Bogota! This site serves as an Landing Page Trubutte Bogota City Tributte.
+Welcome to Bogota! This site serves as an  Page Trubutte Bogota City Tributte.
 
 
 Clone the repositorye <https://github.com/NietoDeveloper/
