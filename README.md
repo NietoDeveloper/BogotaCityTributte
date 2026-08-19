@@ -184,20 +184,7 @@ MIT License. See [LICENSE](./LICENSE) for details.
 
 ---
 
-## ✨ Features
 
-- **Responsive Design:** Adapts cleanly across devices.
-- **Interactive UI:** Powered entirely by vanilla JS.
-- **Clean, Modular CSS Styling:** Organized under `assets/css`.
-- **Standard HTML Structure:** No build tools required.
-
----
-
-## 🚀 Setup Instructions
-
-To set up the project locally, follow these steps:
-
-**Step 1 — Clone the repository**
 
 ```bash
 git clone https://github.com/NietoDeveloper/BogotaCityTributte
