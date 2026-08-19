@@ -6,7 +6,6 @@
 
 Welcome to Bogota! This site serves as an Landing Page Trubutte Bogota City Tributte.
 
-## About
 
 This site is built with vanilla JavaScript
 
