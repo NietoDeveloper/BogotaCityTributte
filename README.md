@@ -2,4 +2,4 @@
 
 ## Vanilla JS Landing
 
-# Information
+# Inform
