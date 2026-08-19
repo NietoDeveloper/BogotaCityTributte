@@ -167,15 +167,10 @@ MIT License. See [LICENSE](./LICENSE) for details.
 
 
 
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge"/>
-  </a>
+
 </p>
 
-<p align="center">
-  <a href="https://nietodeveloper.github.io/BogotaCityTributte/">
-    <img src="https://img.shields.io/badge/🌐_Live_Site-nietodeveloper.github.io-FFD700?style=for-the-badge"/>
-  </a>
+
   <a href="https://github.com/NietoDeveloper/BogotaCityTributte">
     <img src="https://img.shields.io/badge/📂_Source-NietoDeveloper%2FBogotaCityTributte-000000?style=for-the-badge&logo=github&logoColor=FFD700"/>
   </a>
