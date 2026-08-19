@@ -13,7 +13,4 @@ Clone the repository:git clone <https://github.com/NietoDeveloper/
 
 Fork the repository.
 
-
-MIT License. See LICENSE for details.
-
 ## Manuel Nieto Software Developer
