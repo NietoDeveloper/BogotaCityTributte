@@ -6,9 +6,6 @@
 
 Welcome to Bogota! This site serves as an Landing Page Trubutte Bogota City Tributte.
 
-Interactive UI with vanilla JS
-
-Standard HTML structure
 
 Clone the repository:git clone <https://github.com/NietoDeveloper/BogotaCityTributte>
 
