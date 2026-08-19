@@ -13,8 +13,6 @@ Interactive UI with vanilla JS
 Clean and modular CSS styling
 Standard HTML structure
 
-## Setup Instructions
-
 To set up the project locally, follow these steps:
 
 Installation
