@@ -4,7 +4,7 @@
 
 # Information Site
 
-Welcome to Bogota! This site serves as an  PagBogota City Tributte.
+Welcome to Bogota! This site serves as an  City Tributte.
 
 
 
