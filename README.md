@@ -182,29 +182,6 @@ MIT License. See [LICENSE](./LICENSE) for details.
 
 
 
-```
-
----
-
-
-
-
-
-```
-
----
-
-
-
-<div align="center">
-
-| Layer | Technologies |
-|:------|:-------------|
-| 🎨 **Frontend** | HTML, CSS, JavaScript |
-| ☁️ **Hosting** | GitHub Pages |
-
-</div>
-
 ---
 
 ## ✨ Features
