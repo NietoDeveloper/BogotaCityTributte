@@ -10,7 +10,4 @@ Welcome to Bogota! This site serves as an Landing Page Trubutte Bogota City Trib
 Clone the repositorye <https://github.com/NietoDeveloper/
 
 
-
-Fork the repository.
-
 ## Manuel Nieto Software Developer
