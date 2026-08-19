@@ -184,7 +184,7 @@ built with **vanilla JavaSll** (Alcaldía de Bogotá).
 
 ---
 
-## 🗂️ Project Structure
+
 
 ```text
 BogotaCityTributte/
