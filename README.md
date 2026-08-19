@@ -189,9 +189,7 @@ MIT License. See [LICENSE](./LICENSE) for details.
 ## 🔄 Page Rendering Flow
 
 
-    style A fill:#FFD700,color:#000,stroke:#FFD700
-    style D fill:#F7DF1E,color:#000,stroke:#F7DF1E
-    style E fill:#000,color:#FFD700,stroke:#FFD700
+
 ```
 
 ---
