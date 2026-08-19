@@ -4,4 +4,4 @@
 
 # Information Site
 
-Welcome to Bogota! This site serves as an  City Tributte.
+Welcome to Bogota! This site serves as an  City 
