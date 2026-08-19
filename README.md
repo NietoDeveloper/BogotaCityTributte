@@ -7,12 +7,7 @@
 Welcome to Bogota! This site serves as an Landing Page Trubutte Bogota City Tributte.
 
 
-Clone the repository:git clone <https://github.com/NietoDeveloper/BogotaCityTributte>
-
-
-Open index.html in a web browser.
-
-Usage
+Clone the repository:git clone <https://github.com/NietoDeveloper/
 
 Navigate through the website using the browser.
 All functionality is handled by vanilla JS scripts in the js/ folder.
