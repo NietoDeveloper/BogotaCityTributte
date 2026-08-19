@@ -9,9 +9,6 @@ Welcome to Bogota! This site serves as an Landing Page Trubutte Bogota City Trib
 
 This site is built with vanilla JavaScript
 
-es
-
-pendenc
 Features
 
 Responsive design
