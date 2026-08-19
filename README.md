@@ -7,7 +7,7 @@
 Welcome to Bogota! This site serves as an  Page Trubutte Bogota City Tributte.
 
 
-Clone the repositorye <https://github.com/NietoDeveloper/
+Clone the repitorye <https://github.com/NietoDeveloper/
 
 
 ## Manuel Nieto Software Developer
