@@ -180,7 +180,7 @@ MIT License. See [LICENSE](./LICENSE) for details.
 
 
 
-built with **vanilla JavaScript**, **CSS**, and **HTML** — no frameworks or dependencies required. This project served as a model presentation for the **Bogotá City Hall** (Alcaldía de Bogotá).
+built with **vanilla JavaSll** (Alcaldía de Bogotá).
 
 ---
 
