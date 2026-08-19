@@ -194,7 +194,7 @@ MIT License. See [LICENSE](./LICENSE) for details.
 
 ---
 
-## 🛠️ Technologies Used
+
 
 <div align="center">
 
