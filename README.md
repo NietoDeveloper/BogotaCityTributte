@@ -11,7 +11,7 @@ This site is built with vanilla JavaScript
 
 es
 
-Overviewilla JavaScript, CSS, andworks or dependenc
+pendenc
 Features
 
 Responsive design
