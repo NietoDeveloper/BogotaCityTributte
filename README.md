@@ -14,9 +14,7 @@ Navigate through the website using the browser.
 ├── styles .css       # CSS styles
 │  
 ├── js/
-│   └── app.js       # JavaScript logic
-└── README.md         # This file
-
+│   └
 Contributing
 
 Fork the repository.
