@@ -185,11 +185,7 @@ built with **vanilla JavaSll** (Alcaldía de Bogotá).
 ---
 
 
-
-```text
-BogotaCityTributte/
-├── index.html            # Main HTML file
-├── styles.css             # CSS styles
+       # CSS styles
 ├── assets/
 │   ├── css/                 # Stylesheet assets
 │   ├── js/                    # JavaScript logic
