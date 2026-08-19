@@ -161,9 +161,7 @@ MIT License. See [LICENSE](./LICENSE) for details.
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=760&lines=%F0%9F%8C%86+No+Frameworks%2C+No+Dependencies;%E2%9A%A1+Pure+HTML%2C+CSS+%26+JavaScript;%F0%9F%93%B1+Responsive%2C+Lightweight+Design;%F0%9F%87%A8%F0%9F%87%B4+Model+for+Bogot%C3%A1+City+Hall%3B%F0%9F%8F%86+%231+GitHub+Committer+in+Colombia)](https://git.io/typing-svg)
-
-<br/>
+>
 
 <p align="center">
   <a href="https://github.com/NietoDeveloper">
