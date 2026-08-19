@@ -181,22 +181,13 @@ MIT License. See [LICENSE](./LICENSE) for details.
 ---
 
 
-       # CSS styles
 
-└── README.md                      # This file
 ```
 
 ---
 
 ## 🔄 Page Rendering Flow
 
-```mermaid
-flowchart LR
-    A([👤 Visitor]) -->|Loads| B[index.html]
-    B --> C[styles.css / assets/css]
-    B --> D[assets/js/app.js]
-    D -->|Interactive UI| E([🏙️ Bogotá Tribute Page])
-    C --> E
 
     style A fill:#FFD700,color:#000,stroke:#FFD700
     style D fill:#F7DF1E,color:#000,stroke:#F7DF1E
