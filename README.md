@@ -11,11 +11,7 @@ Clone the repository:git clone <https://github.com/NietoDeveloper/
 
 Navigate through the website using the browser.
       # Main HTML file
-├── styles .css       # CSS styles
-│  
-├── js/
-│   └
-Contributing
+
 
 Fork the repository.
 Create a feature branch (git checkout -b feature-branch).
