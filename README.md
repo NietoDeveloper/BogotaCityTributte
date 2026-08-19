@@ -176,20 +176,13 @@ MIT License. See [LICENSE](./LICENSE) for details.
 
 
 
----
 
-
-
-built with **vanilla JavaSll** (Alcaldía de Bogotá).
 
 ---
 
 
        # CSS styles
-├── assets/
-│   ├── css/                 # Stylesheet assets
-│   ├── js/                    # JavaScript logic
-│   └── pics/                    # Image assets
+
 └── README.md                      # This file
 ```
 
