@@ -9,9 +9,7 @@ Welcome to Bogota! This site serves as an Landing Page Trubutte Bogota City Trib
 
 This site is built with vanilla JavaScript
 
-
-- **Frontend:** HTML, CSS, JavaScript
-- **Hosting:** GitHub Pages
+es
 
 Overview
 A simple, lightweight website built with vanilla JavaScript, CSS, and HTML. No frameworks or dependencies required.
