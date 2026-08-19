@@ -11,7 +11,7 @@ This site is built with vanilla JavaScript
 
 es
 
-Overviewilla JavaScript, CSS, and HTML. No frameworks or dependenc
+Overviewilla JavaScript, CSS, andworks or dependenc
 Features
 
 Responsive design
